@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "ud1_acknowledgment",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Acknowledgment",
+    "definition_en": "Recognition or confirmation that a message, request, or service has been received.",
+    "translation_es": "reconocimiento",
+    "examples": [
+      "Please send an official [BLANK] as soon as the pull request is merged.",
+      "The client gave a special [BLANK] to our IT support team.",
+      "We received no [BLANK] from the remote server after submitting the request."
+    ],
+    "examples_es": [
+      "Por favor, envíe un [reconocimiento] oficial en cuanto se fusione la pull request.",
+      "El cliente dio un [reconocimiento] especial a nuestro equipo de soporte técnico.",
+      "No recibimos ningún [reconocimiento] del servidor remoto tras enviar la petición."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"reconocimiento\". Definición: Recognition or confirmation that a message, request, or service has been received."
+  },
+  {
+    "id": "ud1_automated_testing",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Automated testing",
+    "definition_en": "The execution of test scripts automatically to verify software quality without manual intervention.",
+    "translation_es": "prueba automatizada",
+    "examples": [
+      "Implementing [BLANK] helped us catch bugs before deploying to production.",
+      "Our CI/CD pipeline triggers [BLANK] on every single git commit.",
+      "Developers spend less time debugging thanks to robust [BLANK]."
+    ],
+    "examples_es": [
+      "Implementar [pruebas automatizadas] nos ayudó a detectar errores antes de desplegar a producción.",
+      "Nuestra canalización CI/CD activa [pruebas automatizadas] en cada commit de git.",
+      "Los desarrolladores pasan menos tiempo depurando gracias a las [pruebas automatizadas] robustas."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"prueba automatizada\". Definición: The execution of test scripts automatically to verify software quality without manual intervention."
+  },
+  {
+    "id": "ud1_backup_generators",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Backup generators",
+    "definition_en": "Auxiliary power systems that provide emergency electricity when the main power grid fails.",
+    "translation_es": "generadores de reserva",
+    "examples": [
+      "When the city power grid collapsed, the data center [BLANK] started immediately.",
+      "Routine maintenance ensures the [BLANK] are ready for sudden outages.",
+      "The hospital server room relies on diesel [BLANK] for continuous uptime."
+    ],
+    "examples_es": [
+      "Cuando la red eléctrica de la ciudad colapsó, los [generadores de reserva] del centro de datos arrancaron de inmediato.",
+      "El mantenimiento rutinario garantiza que los [generadores de reserva] estén listos ante apagones repentinos.",
+      "La sala de servidores del hospital depende de [generadores de reserva] diésel para mantener el tiempo de actividad continuo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"generadores de reserva\". Definición: Auxiliary power systems that provide emergency electricity when the main power grid fails."
+  },
+  {
+    "id": "ud1_belief",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Belief",
+    "definition_en": "An acceptance that something exists or is true, or a firmly held opinion.",
+    "translation_es": "creencia; opinión",
+    "examples": [
+      "It is our team [BLANK] that continuous delivery improves code stability.",
+      "Customer satisfaction reinforced our [BLANK] in agile methodology.",
+      "His strong [BLANK] in open-source software inspired the entire department."
+    ],
+    "examples_es": [
+      "Es nuestra [creencia/convicción] de equipo que la entrega continua mejora la estabilidad del código.",
+      "La satisfacción del cliente reforzó nuestra [creencia/confianza] en la metodología ágil.",
+      "Su firme [creencia/convicción] en el software de código abierto inspiró a todo el departamento."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"creencia; opinión\". Definición: An acceptance that something exists or is true, or a firmly held opinion."
+  },
+  {
+    "id": "ud1_challenging",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Challenging",
+    "definition_en": "Demanding great effort, skill, and analytical thinking.",
+    "translation_es": "complejo; desafiante",
+    "examples": [
+      "Refactoring this legacy monolithic codebase was an extremely [BLANK] task.",
+      "Migrating millions of active database records proved to be [BLANK].",
+      "Solving distributed concurrency bugs is always [BLANK] for junior developers."
+    ],
+    "examples_es": [
+      "Refactorizar esta base de código monolítico heredado fue una tarea extremadamente [desafiante/compleja].",
+      "Migrar millones de registros activos de la base de datos resultó ser [desafiante/complejo].",
+      "Resolver errores de concurrencia distribuida siempre es [desafiante/complejo] para desarrolladores junior."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"complejo; desafiante\". Definición: Demanding great effort, skill, and analytical thinking."
+  },
+  {
+    "id": "ud1_code_freeze",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Code freeze",
+    "definition_en": "A period prior to a software release when no new code or features may be added.",
+    "translation_es": "congelación de código",
+    "examples": [
+      "The lead architect declared a strict [BLANK] one week before launch.",
+      "During the [BLANK], engineers only fix critical production blockers.",
+      "Please commit all feature branches before midnight, when the [BLANK] begins."
+    ],
+    "examples_es": [
+      "El arquitecto principal declaró una estricta [congelación de código] una semana antes del lanzamiento.",
+      "Durante la [congelación de código], los ingenieros solo solucionan bloqueos críticos de producción.",
+      "Por favor, comitead todas las ramas de funcionalidades antes de medianoche, cuando comienza la [congelación de código]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"congelación de código\". Definición: A period prior to a software release when no new code or features may be added."
+  },
+  {
+    "id": "ud1_coding_phase",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Coding phase",
+    "definition_en": "The stage in the software development lifecycle where programmers write source code.",
+    "translation_es": "fase de codificación",
+    "examples": [
+      "After requirements are approved, our sprint moves into the [BLANK].",
+      "The [BLANK] took three weeks of intensive development.",
+      "Code reviews must be conducted continuously throughout the [BLANK]."
+    ],
+    "examples_es": [
+      "Tras la aprobación de los requisitos, nuestro sprint pasa a la [fase de codificación].",
+      "La [fase de codificación] requirió tres semanas de desarrollo intensivo.",
+      "Las revisiones de código deben realizarse continuamente a lo largo de la [fase de codificación]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"fase de codificación\". Definición: The stage in the software development lifecycle where programmers write source code."
+  },
+  {
+    "id": "ud1_conventions",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Conventions",
+    "definition_en": "Agreed standards or guidelines for code syntax, architecture, or industry meetings.",
+    "translation_es": "convención; congreso",
+    "examples": [
+      "Our engineering team follows strict PEP 8 naming [BLANK].",
+      "Following clean coding [BLANK] makes team collaboration much easier.",
+      "She presented a paper on cybersecurity at international developer [BLANK]."
+    ],
+    "examples_es": [
+      "Nuestro equipo de desarrollo sigue estrictas [convenciones] de nombrado PEP 8.",
+      "Seguir [convenciones] de código limpio facilita enormemente la colaboración en equipo.",
+      "Ella presentó una ponencia sobre ciberseguridad en [congresos/convenciones] internacionales de desarrollo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"convención; congreso\". Definición: Agreed standards or guidelines for code syntax, architecture, or industry meetings."
+  },
+  {
+    "id": "ud1_core_functionalities",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Core functionalities",
+    "definition_en": "The essential features and primary operations that a system or application must perform.",
+    "translation_es": "funciones principales",
+    "examples": [
+      "Before launching additional features, we must test all [BLANK].",
+      "Authentication and data encryption represent [BLANK] of our cloud app.",
+      "Any regression in [BLANK] will prevent the release from going live."
+    ],
+    "examples_es": [
+      "Antes de lanzar funciones adicionales, debemos probar todas las [funciones principales].",
+      "La autenticación y el cifrado de datos representan las [funciones principales] de nuestra app en la nube.",
+      "Cualquier fallo en las [funciones principales] impedirá que la versión pase a producción."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"funciones principales\". Definición: The essential features and primary operations that a system or application must perform."
+  },
+  {
+    "id": "ud1_cost_effective",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Cost-effective",
+    "definition_en": "Producing high return and solid results without unnecessary expenditure.",
+    "translation_es": "buena relación coste-eficacia; rentable",
+    "examples": [
+      "Switching to cloud serverless infrastructure proved to be very [BLANK].",
+      "Automating repetitive IT tasks is a [BLANK] strategy for modern enterprises.",
+      "Open-source software offers a highly [BLANK] alternative to expensive proprietary tools."
+    ],
+    "examples_es": [
+      "Pasar a infraestructura serverless en la nube demostró ser una solución muy [rentable/económica].",
+      "Automatizar tareas repetitivas de TI es una estrategia [rentable] para las empresas modernas.",
+      "El software de código abierto ofrece una alternativa muy [rentable] frente a costosas herramientas privativas."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"buena relación coste-eficacia; rentable\". Definición: Producing high return and solid results without unnecessary expenditure."
+  },
+  {
+    "id": "ud1_cutting_edge",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Cutting-edge",
+    "definition_en": "Highly advanced, pioneering, and utilizing the latest technological developments.",
+    "translation_es": "innovador/a; de vanguardia",
+    "examples": [
+      "Our tech company develops [BLANK] machine learning algorithms.",
+      "The server farm utilizes [BLANK] liquid immersion cooling hardware.",
+      "Engineers are trained in [BLANK] DevOps methodologies to increase velocity."
+    ],
+    "examples_es": [
+      "Nuestra empresa tecnológica desarrolla algoritmos de aprendizaje automático [innovadores/de vanguardia].",
+      "La granja de servidores utiliza hardware de refrigeración líquida por inmersión [de vanguardia].",
+      "Los ingenieros se forman en metodologías DevOps [de vanguardia] para aumentar la velocidad de entrega."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"innovador/a; de vanguardia\". Definición: Highly advanced, pioneering, and utilizing the latest technological developments."
+  },
+  {
+    "id": "ud1_delight",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Delight",
+    "definition_en": "Great pleasure, high satisfaction, or a feature that pleases users.",
+    "translation_es": "placer; deleite",
+    "examples": [
+      "Providing an intuitive user interface will [BLANK] our enterprise customers.",
+      "The fast response time of the new microservice was a pure [BLANK] to see.",
+      "It was a [BLANK] to collaborate with such skilled systems engineers."
+    ],
+    "examples_es": [
+      "Ofrecer una interfaz de usuario intuitiva causará [placer/deleite] a nuestros clientes empresariales.",
+      "El rápido tiempo de respuesta del nuevo microservicio fue un auténtico [deleite/placer] de ver.",
+      "Fue un verdadero [placer/deleite] colaborar con ingenieros de sistemas tan competentes."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"placer; deleite\". Definición: Great pleasure, high satisfaction, or a feature that pleases users."
+  },
+  {
+    "id": "ud1_embracing_change",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Embracing change",
+    "definition_en": "Actively welcoming and adapting to new technology, methods, or conditions.",
+    "translation_es": "aceptar el cambio",
+    "examples": [
+      "[BLANK] is essential when transitioning from legacy on-premise systems to cloud.",
+      "Modern agile teams succeed by [BLANK] instead of resisting it.",
+      "Successful IT leaders guide their organizations in [BLANK] with confidence."
+    ],
+    "examples_es": [
+      "[Aceptar el cambio] es esencial al migrar de sistemas locales heredados a la nube.",
+      "Los equipos ágiles modernos triunfan al [aceptar el cambio] en lugar de resistirse a él.",
+      "Los líderes tecnológicos exitosos guían a sus organizaciones [aceptando el cambio] con confianza."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"aceptar el cambio\". Definición: Actively welcoming and adapting to new technology, methods, or conditions."
+  },
+  {
+    "id": "ud1_enhance",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Enhance",
+    "definition_en": "To improve the quality, efficiency, performance, or value of a system.",
+    "translation_es": "mejorar; aumentar",
+    "examples": [
+      "We added caching layers to [BLANK] overall web application performance.",
+      "Multi-factor authentication helps [BLANK] customer account security.",
+      "The latest firmware update will [BLANK] network router stability."
+    ],
+    "examples_es": [
+      "Añadimos capas de caché para [mejorar/aumentar] el rendimiento general de la aplicación web.",
+      "La autenticación multifactor ayuda a [mejorar/reforzar] la seguridad de las cuentas de usuario.",
+      "La última actualización de firmware conseguirá [mejorar] la estabilidad del router de red."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"mejorar; aumentar\". Definición: To improve the quality, efficiency, performance, or value of a system."
+  },
+  {
+    "id": "ud1_evidence",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Evidence",
+    "definition_en": "Factual data, logs, or metrics proving a condition or root cause.",
+    "translation_es": "evidencia; prueba",
+    "examples": [
+      "The network audit logs provided clear [BLANK] of an unauthorized port scan.",
+      "There is no empirical [BLANK] that this query optimization caused the slowdown.",
+      "The systems administrator collected forensic [BLANK] after the incident."
+    ],
+    "examples_es": [
+      "Los registros de auditoría de red proporcionaron [pruebas/evidencia] clara de un escaneo de puertos no autorizado.",
+      "No hay [evidencia/prueba] empírica de que esta optimización de consultas causara la ralentización.",
+      "El administrador de sistemas recopiló [pruebas] forenses tras el incidente de seguridad."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"evidencia; prueba\". Definición: Factual data, logs, or metrics proving a condition or root cause."
+  },
+  {
+    "id": "ud1_firewall",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Firewall",
+    "definition_en": "A security system that monitors and filters incoming and outgoing network traffic.",
+    "translation_es": "cortafuegos",
+    "examples": [
+      "The corporate [BLANK] blocked multiple suspicious connection attempts.",
+      "Ensure port 8080 is opened in the internal [BLANK] configuration.",
+      "A next-generation [BLANK] inspects packet payloads at the application layer."
+    ],
+    "examples_es": [
+      "El [cortafuegos] corporativo bloqueó múltiples intentos de conexión sospechosos.",
+      "Asegúrate de que el puerto 8080 esté abierto en la configuración del [cortafuegos] interno.",
+      "Un [cortafuegos] de última generación inspecciona los paquetes de datos en la capa de aplicación."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"cortafuegos\". Definición: A security system that monitors and filters incoming and outgoing network traffic."
+  },
+  {
+    "id": "ud1_formality",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Formality",
+    "definition_en": "Rigorous adherence to professional rules, etiquette, or technical protocols.",
+    "translation_es": "formalidad; procedimiento",
+    "examples": [
+      "Email communication with enterprise clients requires a high level of [BLANK].",
+      "Signing the non-disclosure agreement is not just a [BLANK]; it is legally binding.",
+      "While our daily standup is casual, stakeholder demos maintain strict [BLANK]."
+    ],
+    "examples_es": [
+      "La comunicación por correo electrónico con clientes corporativos requiere un alto nivel de [formalidad].",
+      "Firmar el acuerdo de confidencialidad no es un mero trámite de [formalidad]; es legalmente vinculante.",
+      "Aunque nuestra reunión diaria es informal, las demos ante clientes mantienen una estricta [formalidad]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"formalidad; procedimiento\". Definición: Rigorous adherence to professional rules, etiquette, or technical protocols."
+  },
+  {
+    "id": "ud1_foster",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Foster",
+    "definition_en": "To encourage, facilitate, and nurture the development of skills or culture.",
+    "translation_es": "fomentar; promover",
+    "examples": [
+      "Pair programming helps [BLANK] knowledge sharing across engineering teams.",
+      "Hackathons are designed to [BLANK] innovation and creative problem solving.",
+      "Good technical documentation helps [BLANK] independence among junior developers."
+    ],
+    "examples_es": [
+      "La programación en parejas ayuda a [fomentar/promover] el intercambio de conocimientos en el equipo.",
+      "Los hackatones están diseñados para [fomentar/impulsar] la innovación y la resolución creativa de problemas.",
+      "Una buena documentación técnica ayuda a [fomentar] la autonomía entre los desarrolladores junior."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"fomentar; promover\". Definición: To encourage, facilitate, and nurture the development of skills or culture."
+  },
+  {
+    "id": "ud1_inquire",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Inquire",
+    "definition_en": "To ask for information, details, or clarification about a process.",
+    "translation_es": "preguntar; indagar",
+    "examples": [
+      "I will contact the database administrator to [BLANK] about backup policies.",
+      "Clients frequently [BLANK] about data privacy compliance before purchasing.",
+      "You should [BLANK] whether the API supports asynchronous webhooks."
+    ],
+    "examples_es": [
+      "Me pondré en contacto con el administrador de bases de datos para [preguntar/indagar] sobre la política de copias.",
+      "Los clientes suelen [preguntar/consultar] con frecuencia sobre el cumplimiento de la privacidad antes de contratar.",
+      "Deberías [preguntar/indagar] si la API admite webhooks asíncronos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"preguntar; indagar\". Definición: To ask for information, details, or clarification about a process."
+  },
+  {
+    "id": "ud1_insights",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Insights",
+    "definition_en": "Deep understanding and actionable intelligence gained through analysis.",
+    "translation_es": "conocimiento; perspectivas",
+    "examples": [
+      "Application monitoring dashboards provide valuable [BLANK] into user traffic.",
+      "Data analytics offer actionable [BLANK] to optimize cloud spending.",
+      "The senior architect shared insightful [BLANK] on microservice decoupling."
+    ],
+    "examples_es": [
+      "Los paneles de control de monitorización aportan valiosas [perspectivas/conocimientos] sobre el tráfico de usuarios.",
+      "El análisis de datos ofrece [conocimientos/perspectivas] prácticas para optimizar el gasto en la nube.",
+      "El arquitecto sénior compartió interesantes [conocimientos/perspectivas] sobre el desacoplamiento de microservicios."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"conocimiento; perspectivas\". Definición: Deep understanding and actionable intelligence gained through analysis."
+  },
+  {
+    "id": "ud1_judgment",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Judgment",
+    "definition_en": "The ability to make well-considered technical decisions and assessments.",
+    "translation_es": "opinión; criterio",
+    "examples": [
+      "Senior engineers rely on technical [BLANK] when choosing architectural patterns.",
+      "In my professional [BLANK], migrating immediately to GraphQL carries excessive risk.",
+      "Critical production decisions require calm and balanced engineering [BLANK]."
+    ],
+    "examples_es": [
+      "Los ingenieros sénior confían en su [criterio/juicio] técnico a la hora de elegir patrones de arquitectura.",
+      "A mi [criterio/juicio] profesional, migrar inmediatamente a GraphQL conlleva un riesgo excesivo.",
+      "Las decisiones críticas de producción requieren un [criterio] de ingeniería sereno y equilibrado."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"opinión; criterio\". Definición: The ability to make well-considered technical decisions and assessments."
+  },
+  {
+    "id": "ud1_key_milestones",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Key milestones",
+    "definition_en": "Significant points or stages marking progress in a project plan.",
+    "translation_es": "objetivos clave; hitos",
+    "examples": [
+      "Releasing the beta version by June is one of our [BLANK].",
+      "The project manager tracked all [BLANK] on the Jira dashboard.",
+      "Celebrating achieved [BLANK] keeps the development squad motivated."
+    ],
+    "examples_es": [
+      "Lanzar la versión beta para junio es uno de nuestros [hitos/objetivos clave].",
+      "El gestor de proyectos monitorizó todos los [hitos clave] en el panel de Jira.",
+      "Celebrar los [hitos clave] alcanzados mantiene motivado al equipo de desarrollo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"objetivos clave; hitos\". Definición: Significant points or stages marking progress in a project plan."
+  },
+  {
+    "id": "ud1_kicked_in",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Kicked in",
+    "definition_en": "Began to operate, take effect, or function as intended.",
+    "translation_es": "empezar a hacer efecto",
+    "examples": [
+      "When the main server crashed, the failover mechanism immediately [BLANK].",
+      "The automatic rate limiting [BLANK] once the API received 10,000 requests per second.",
+      "As soon as temperatures rose, the auxiliary data center cooling [BLANK]."
+    ],
+    "examples_es": [
+      "Cuando el servidor principal se cayó, el mecanismo de tolerancia a fallos [empezó a hacer efecto/se activó] de inmediato.",
+      "La limitación automática de peticiones [empezó a actuar] en cuanto la API recibió 10.000 solicitudes por segundo.",
+      "En cuanto subió la temperatura, la refrigeración auxiliar del centro de datos [entró en acción]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"empezar a hacer efecto\". Definición: Began to operate, take effect, or function as intended."
+  },
+  {
+    "id": "ud1_misunderstanding",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Misunderstanding",
+    "definition_en": "A failure to understand correctly, often causing communication errors.",
+    "translation_es": "malentendido",
+    "examples": [
+      "Clear API documentation prevents any [BLANK] between frontend and backend devs.",
+      "A brief [BLANK] regarding the sprint goal delayed the release by one day.",
+      "Documenting user stories thoroughly helps avoid [BLANK] with business analysts."
+    ],
+    "examples_es": [
+      "Una documentación clara de la API evita cualquier [malentendido] entre desarrolladores frontend y backend.",
+      "Un pequeño [malentendido] relativo al objetivo del sprint retrasó el lanzamiento un día.",
+      "Detallar minuciosamente las historias de usuario ayuda a evitar [malentendidos] con los analistas."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"malentendido\". Definición: A failure to understand correctly, often causing communication errors."
+  },
+  {
+    "id": "ud1_monitoring",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Monitoring",
+    "definition_en": "The continuous observation and measurement of system health and metrics.",
+    "translation_es": "supervisión; control",
+    "examples": [
+      "Real-time [BLANK] of CPU and RAM usage alerts us before memory leaks crash servers.",
+      "Prometheus and Grafana are popular tools for infrastructure [BLANK].",
+      "Continuous log [BLANK] is required to detect security intrusions quickly."
+    ],
+    "examples_es": [
+      "La [supervisión/monitorización] en tiempo real de CPU y RAM nos avisa antes de que las fugas de memoria tiren los servidores.",
+      "Prometheus y Grafana son herramientas populares para la [supervisión/monitorización] de infraestructuras.",
+      "La [supervisión] continua de registros es necesaria para detectar intrusiones de seguridad con rapidez."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"supervisión; control\". Definición: The continuous observation and measurement of system health and metrics."
+  },
+  {
+    "id": "ud1_network",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Network",
+    "definition_en": "A group of interconnected computer systems and devices that communicate.",
+    "translation_es": "red",
+    "examples": [
+      "The office [BLANK] was upgraded to support 10 Gigabit fiber connections.",
+      "A distributed Denial of Service attack saturated the corporate [BLANK].",
+      "Virtual Private [BLANK] tunnels enable secure remote access for staff."
+    ],
+    "examples_es": [
+      "La [red] de la oficina fue actualizada para admitir conexiones de fibra óptica de 10 Gigabits.",
+      "Un ataque distribuido de denegación de servicio (DDoS) saturó la [red] corporativa.",
+      "Los túneles de [red] privada virtual (VPN) permiten un acceso remoto seguro al personal."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"red\". Definición: A group of interconnected computer systems and devices that communicate."
+  },
+  {
+    "id": "ud1_onward_and_upward",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Onward and upward",
+    "definition_en": "Continuing to move forward toward greater success and advancement.",
+    "translation_es": "adelante y hacia arriba",
+    "examples": [
+      "After overcoming the deployment crisis, the startup went [BLANK].",
+      "With the new funding round secured, it is [BLANK] for our software team.",
+      "We completed the refactoring milestone and are moving [BLANK]."
+    ],
+    "examples_es": [
+      "Tras superar la crisis del despliegue, la empresa emergente fue [adelante y hacia arriba / viento en popa].",
+      "Con la nueva ronda de financiación cerrada, todo va [hacia arriba y adelante] para nuestro equipo de software.",
+      "Completamos el hito de refactorización y seguimos avanzando [adelante y hacia arriba]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"adelante y hacia arriba\". Definición: Continuing to move forward toward greater success and advancement."
+  },
+  {
+    "id": "ud1_open_minded",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Open-minded",
+    "definition_en": "Willing to consider new ideas, technical paradigms, or opinions.",
+    "translation_es": "de mente abierta",
+    "examples": [
+      "A good software architect remains [BLANK] to alternative tech stacks.",
+      "Being [BLANK] during code reviews fosters healthy constructive debate.",
+      "We need an [BLANK] approach when re-evaluating our legacy systems."
+    ],
+    "examples_es": [
+      "Un buen arquitecto de software se mantiene [de mente abierta] ante pilas tecnológicas alternativas.",
+      "Tener una actitud [de mente abierta] durante las revisiones de código fomenta el debate constructivo.",
+      "Necesitamos un enfoque [de mente abierta] al reevaluar nuestros sistemas heredados."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"de mente abierta\". Definición: Willing to consider new ideas, technical paradigms, or opinions."
+  },
+  {
+    "id": "ud1_outage",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Outage",
+    "definition_en": "A period when a service, power supply, or IT system is unavailable.",
+    "translation_es": "corte de servicio; apagón",
+    "examples": [
+      "The unexpected DNS [BLANK] prevented users from reaching our website for an hour.",
+      "Post-mortem investigations revealed that human error triggered the cloud [BLANK].",
+      "We configured redundant load balancers to minimize the impact of any [BLANK]."
+    ],
+    "examples_es": [
+      "El inesperado [corte de servicio/apagón] de DNS impidió que los usuarios accedieran a nuestra web durante una hora.",
+      "La investigación posterior reveló que un error humano provocó la [caída del servicio/interrupción] en la nube.",
+      "Configuramos balanceadores de carga redundantes para minimizar el impacto de cualquier [corte/caída de servicio]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"corte de servicio; apagón\". Definición: A period when a service, power supply, or IT system is unavailable."
+  },
+  {
+    "id": "ud1_overall_strategy",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Overall strategy",
+    "definition_en": "The comprehensive, long-term plan designed to achieve primary goals.",
+    "translation_es": "estrategia general",
+    "examples": [
+      "Migrating to containerized microservices is part of our [BLANK].",
+      "The CTO presented the five-year [BLANK] to the board of directors.",
+      "Our [BLANK] focuses on automation, security, and developer ergonomics."
+    ],
+    "examples_es": [
+      "Migrar a microservicios en contenedores forma parte de nuestra [estrategia general].",
+      "El director de tecnología presentó la [estrategia general] a cinco años ante la junta directiva.",
+      "Nuestra [estrategia general] se centra en la automatización, la seguridad y la comodidad del desarrollador."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"estrategia general\". Definición: The comprehensive, long-term plan designed to achieve primary goals."
+  },
+  {
+    "id": "ud1_phased_implementation",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Phased implementation",
+    "definition_en": "A gradual rollout of a system or product in distinct successive stages.",
+    "translation_es": "implementación por fases",
+    "examples": [
+      "We adopted a [BLANK] strategy to reduce the operational risk of the migration.",
+      "The ERP upgrade was executed through a three-month [BLANK].",
+      "During a [BLANK], only 10% of users receive the new feature initially."
+    ],
+    "examples_es": [
+      "Adoptamos una estrategia de [implementación por fases] para reducir el riesgo operativo de la migración.",
+      "La actualización del sistema ERP se ejecutó mediante una [implementación por fases] de tres meses.",
+      "Durante una [implementación por fases], inicialmente solo el 10% de los usuarios recibe la nueva función."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"implementación por fases\". Definición: A gradual rollout of a system or product in distinct successive stages."
+  },
+  {
+    "id": "ud1_power_fluctuations",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Power fluctuations",
+    "definition_en": "Irregular rises and falls in electrical current that can damage hardware.",
+    "translation_es": "variaciones de potencia",
+    "examples": [
+      "Sensitive server hardware must be shielded against unexpected [BLANK].",
+      "The UPS filters out minor [BLANK] before electricity reaches the rack.",
+      "Sudden [BLANK] during the storm caused several workstations to reboot."
+    ],
+    "examples_es": [
+      "El hardware delicado de servidores debe protegerse contra [variaciones de potencia/voltaje] inesperadas.",
+      "El SAI (UPS) filtra pequeñas [variaciones de potencia] antes de que la electricidad llegue al rack.",
+      "Las bruscas [variaciones de potencia] durante la tormenta hicieron que varios equipos se reiniciaran."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"variaciones de potencia\". Definición: Irregular rises and falls in electrical current that can damage hardware."
+  },
+  {
+    "id": "ud1_power_surge",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Power surge",
+    "definition_en": "A sudden, sharp increase in electrical voltage that can harm equipment.",
+    "translation_es": "pico de tensión; sobretensión",
+    "examples": [
+      "A lightning strike caused a severe [BLANK] that damaged the switch ports.",
+      "Always plug valuable server equipment into certified [BLANK] protectors.",
+      "The datacenter circuit breakers tripped immediately when the [BLANK] occurred."
+    ],
+    "examples_es": [
+      "La caída de un rayo provocó una grave [sobretensión / pico de tensión] que dañó los puertos del switch.",
+      "Conecte siempre los equipos de servidor a protectores certificados contra [sobretensiones].",
+      "Los disyuntores del centro de datos saltaron inmediatamente cuando se produjo la [sobretensión]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"pico de tensión; sobretensión\". Definición: A sudden, sharp increase in electrical voltage that can harm equipment."
+  },
+  {
+    "id": "ud1_practical_tips",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Practical tips",
+    "definition_en": "Actionable, hands-on advice for solving real problems efficiently.",
+    "translation_es": "consejos prácticos",
+    "examples": [
+      "The senior engineer shared several [BLANK] for debugging async JavaScript.",
+      "This security handbook provides [BLANK] for configuring SSH keys.",
+      "Here are five [BLANK] to optimize PostgreSQL database indexing."
+    ],
+    "examples_es": [
+      "El ingeniero sénior compartió varios [consejos prácticos] para depurar JavaScript asíncrono.",
+      "Este manual de seguridad proporciona [consejos prácticos] para configurar claves SSH.",
+      "Aquí tienes cinco [consejos prácticos] para optimizar la indexación en bases de datos PostgreSQL."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"consejos prácticos\". Definición: Actionable, hands-on advice for solving real problems efficiently."
+  },
+  {
+    "id": "ud1_rationale",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Rationale",
+    "definition_en": "The underlying reasons or logical basis for a particular decision or design.",
+    "translation_es": "lógica; justificación",
+    "examples": [
+      "What is the architectural [BLANK] behind splitting this database into shards?",
+      "The lead developer explained the [BLANK] for deprecating the older REST endpoints.",
+      "Documenting the technical [BLANK] helps future developers understand legacy code."
+    ],
+    "examples_es": [
+      "¿Cuál es la [justificación/lógica] arquitectónica para dividir esta base de datos en fragmentos?",
+      "El desarrollador principal explicó la [justificación/lógica] para descatalogar los antiguos endpoints REST.",
+      "Documentar la [justificación] técnica ayuda a los futuros programadores a entender el código."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"lógica; justificación\". Definición: The underlying reasons or logical basis for a particular decision or design."
+  },
+  {
+    "id": "ud1_recurring_issue",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Recurring issue",
+    "definition_en": "A defect or difficulty that happens repeatedly over time.",
+    "translation_es": "asunto recurrente; problema repetitivo",
+    "examples": [
+      "Memory exhaustion on the Redis cluster has become a [BLANK].",
+      "Automated retry logic helped mitigate this [BLANK] in our background workers.",
+      "We need a permanent architectural fix rather than patching this [BLANK] every week."
+    ],
+    "examples_es": [
+      "El agotamiento de memoria en el clúster de Redis se ha convertido en un [problema recurrente].",
+      "La lógica de reintento automático ayudó a mitigar este [problema recurrente] en los procesos en segundo plano.",
+      "Necesitamos una solución arquitectónica permanente en lugar de parchear este [asunto recurrente] cada semana."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"asunto recurrente; problema repetitivo\". Definición: A defect or difficulty that happens repeatedly over time."
+  },
+  {
+    "id": "ud1_relief",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Relief",
+    "definition_en": "A feeling of reassurance and relaxation following release from anxiety or difficulty.",
+    "translation_es": "alivio",
+    "examples": [
+      "It was a huge [BLANK] when all automated end-to-end tests passed cleanly.",
+      "Knowing that offsite backups exist gives the operations team immense [BLANK].",
+      "Resolving the critical zero-day exploit brought great [BLANK] to security staff."
+    ],
+    "examples_es": [
+      "Fue un gran [alivio] cuando todas las pruebas automatizadas de extremo a extremo pasaron limpiamente.",
+      "Saber que existen copias de seguridad externas proporciona un inmenso [alivio] al equipo de operaciones.",
+      "Solucionar la vulnerabilidad crítica de día cero trajo un enorme [alivio] al personal de seguridad."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"alivio\". Definición: A feeling of reassurance and relaxation following release from anxiety or difficulty."
+  },
+  {
+    "id": "ud1_rerouting_power",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Rerouting power",
+    "definition_en": "Diverting electrical current through alternative circuits to maintain uptime.",
+    "translation_es": "redirigir la energía",
+    "examples": [
+      "The smart power distribution unit succeeded in [BLANK] around the faulty line.",
+      "[BLANK] during scheduled maintenance prevented any server downtime.",
+      "Automated switches handle [BLANK] whenever a circuit breaker trips."
+    ],
+    "examples_es": [
+      "La unidad inteligente de distribución logró [redirigir la energía] rodeando la línea defectuosa.",
+      "[Redirigir la energía] durante el mantenimiento programado evitó cualquier caída de los servidores.",
+      "Los conmutadores automáticos gestionan el [redireccionamiento de energía] cuando salta un interruptor."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"redirigir la energía\". Definición: Diverting electrical current through alternative circuits to maintain uptime."
+  },
+  {
+    "id": "ud1_scalability",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Scalability",
+    "definition_en": "The capability of a system to handle increased load by adding resources.",
+    "translation_es": "escalabilidad; adaptabilidad",
+    "examples": [
+      "Kubernetes pod auto-scaling provides excellent horizontal [BLANK].",
+      "The database was redesigned to guarantee high [BLANK] for Black Friday sales.",
+      "Microservice architectures are favored by enterprises due to their [BLANK]."
+    ],
+    "examples_es": [
+      "El autoescalado de pods en Kubernetes ofrece una excelente [escalabilidad] horizontal.",
+      "La base de datos se rediseñó para garantizar una alta [escalabilidad] durante las ventas de Black Friday.",
+      "Las arquitecturas de microservicios son muy apreciadas por las empresas gracias a su [escalabilidad]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"escalabilidad; adaptabilidad\". Definición: The capability of a system to handle increased load by adding resources."
+  },
+  {
+    "id": "ud1_scalable",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Scalable",
+    "definition_en": "Able to be easily expanded, upgraded, or adjusted to accommodate growth.",
+    "translation_es": "expansible; escalable",
+    "examples": [
+      "We need a highly [BLANK] storage solution to hold petabytes of log archives.",
+      "Cloud architectures are designed to be naturally [BLANK] on demand.",
+      "Writing stateless backend services makes your web application effortlessly [BLANK]."
+    ],
+    "examples_es": [
+      "Necesitamos una solución de almacenamiento altamente [escalable] para guardar petabytes de registros.",
+      "Las arquitecturas en la nube están diseñadas para ser naturalmente [escalables] según la demanda.",
+      "Escribir servicios backend sin estado hace que tu aplicación web sea fácilmente [escalable]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"expansible; escalable\". Definición: Able to be easily expanded, upgraded, or adjusted to accommodate growth."
+  },
+  {
+    "id": "ud1_server_room",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Server room",
+    "definition_en": "A dedicated, climate-controlled facility housing computer servers and networking gear.",
+    "translation_es": "cuarto de servidores",
+    "examples": [
+      "Only authorized sysadmins with biometric badges may enter the main [BLANK].",
+      "The temperature inside the [BLANK] must remain strictly between 18 and 22 degrees.",
+      "Fire suppression gas systems are installed throughout the company [BLANK]."
+    ],
+    "examples_es": [
+      "Solo los administradores autorizados con tarjeta biométrica pueden entrar a la [sala de servidores].",
+      "La temperatura dentro de la [sala de servidores] debe mantenerse estrictamente entre 18 y 22 grados.",
+      "Se han instalado sistemas de extinción por gas en toda la [sala de servidores] de la empresa."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"cuarto de servidores\". Definición: A dedicated, climate-controlled facility housing computer servers and networking gear."
+  },
+  {
+    "id": "ud1_settings",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Settings",
+    "definition_en": "User or system options that control the behavior of an application.",
+    "translation_es": "ajustes; configuración",
+    "examples": [
+      "Open the administrative console to review the default network [BLANK].",
+      "You can toggle dark mode on or off in user profile [BLANK].",
+      "The developer modified environment [BLANK] before deploying to staging."
+    ],
+    "examples_es": [
+      "Abra la consola de administración para revisar los [ajustes / la configuración] predeterminada de red.",
+      "Puede activar o desactivar el modo oscuro en los [ajustes / opciones] de su perfil de usuario.",
+      "El desarrollador modificó los [ajustes / variables] de entorno antes de desplegar en preproducción."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"ajustes; configuración\". Definición: User or system options that control the behavior of an application."
+  },
+  {
+    "id": "ud1_streamlining",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Streamlining",
+    "definition_en": "Improving an organization or process by eliminating unnecessary steps.",
+    "translation_es": "optimización; simplificación",
+    "examples": [
+      "Adopting continuous integration resulted in [BLANK] our entire release cycle.",
+      "[BLANK] onboarding procedures helps new programmers commit code on their first day.",
+      "Our sprint retrospective focused on [BLANK] bug reporting workflows."
+    ],
+    "examples_es": [
+      "Adoptar la integración continua se tradujo en una [optimización/simplificación] de todo nuestro ciclo de entrega.",
+      "[Optimizar/simplificar] los trámites de bienvenida ayuda a los nuevos programadores a comitear código el primer día.",
+      "La retrospectiva del sprint se centró en [simplificar/optimizar] el flujo de reporte de fallos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"optimización; simplificación\". Definición: Improving an organization or process by eliminating unnecessary steps."
+  },
+  {
+    "id": "ud1_supporting",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Supporting",
+    "definition_en": "Providing assistance, maintenance, backing, or technical reinforcement.",
+    "translation_es": "de apoyo; apoyar",
+    "examples": [
+      "The senior architect is dedicated to [BLANK] junior developers during the sprint.",
+      "We maintain several [BLANK] libraries alongside our core web application.",
+      "IT helpdesk staff do an outstanding job [BLANK] remote employees."
+    ],
+    "examples_es": [
+      "El arquitecto sénior se dedica a [dar apoyo / respaldar] a los desarrolladores junior durante el sprint.",
+      "Mantenemos varias librerías [de apoyo / secundarias] junto con nuestra aplicación web principal.",
+      "El equipo de soporte técnico hace un trabajo extraordinario [ayudando / dando soporte] a empleados remotos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"de apoyo; apoyar\". Definición: Providing assistance, maintenance, backing, or technical reinforcement."
+  },
+  {
+    "id": "ud1_thrilled",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Thrilled",
+    "definition_en": "Extremely excited, delighted, and passionate about an achievement.",
+    "translation_es": "entusiasmado/a",
+    "examples": [
+      "The team was [BLANK] when the client approved the final production build.",
+      "She was [BLANK] to be promoted to Senior Infrastructure Engineer.",
+      "We were [BLANK] by the positive performance metrics from our load tests."
+    ],
+    "examples_es": [
+      "El equipo estuvo [entusiasmado/emocionado] cuando el cliente aprobó la versión final de producción.",
+      "Ella estaba [entusiasmada] tras ser ascendida a Ingeniera Sénior de Infraestructura.",
+      "Nos quedamos [entusiasmados] con los positivos resultados de rendimiento obtenidos en las pruebas de carga."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"entusiasmado/a\". Definición: Extremely excited, delighted, and passionate about an achievement."
+  },
+  {
+    "id": "ud1_updating",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Updating",
+    "definition_en": "Modifying or upgrading software, firmware, or data to the latest version.",
+    "translation_es": "actualización; actualizar",
+    "examples": [
+      "Regularly [BLANK] dependencies is critical to patching security vulnerabilities.",
+      "The database schema was locked while [BLANK] customer records.",
+      "Make sure you restart the server process after [BLANK] configuration files."
+    ],
+    "examples_es": [
+      "[Actualizar] las dependencias con regularidad es fundamental para parchear vulnerabilidades de seguridad.",
+      "El esquema de la base de datos se bloqueó mientras se estaban [actualizando] los registros de clientes.",
+      "Asegúrate de reiniciar el servicio del servidor tras [actualizar] los archivos de configuración."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"actualización; actualizar\". Definición: Modifying or upgrading software, firmware, or data to the latest version."
+  },
+  {
+    "id": "ud1_user_acceptance_testing",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "User acceptance testing",
+    "definition_en": "The final testing phase where actual end-users verify that the software meets needs.",
+    "translation_es": "pruebas de aceptación del usuario (UAT)",
+    "examples": [
+      "The web application passed internal QA and is now undergoing [BLANK].",
+      "Business stakeholders discovered two workflow discrepancies during [BLANK].",
+      "Signed approval on [BLANK] is legally required before public deployment."
+    ],
+    "examples_es": [
+      "La aplicación web superó el control de calidad interno y ahora está en [pruebas de aceptación del usuario (UAT)].",
+      "Los responsables de negocio descubrieron dos discrepancias en el flujo durante las [pruebas de aceptación (UAT)].",
+      "La firma de aprobación de las [pruebas de aceptación (UAT)] es legalmente obligatoria antes del despliegue público."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"pruebas de aceptación del usuario (UAT)\". Definición: The final testing phase where actual end-users verify that the software meets needs."
+  },
+  {
+    "id": "ud1_versatile",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Versatile",
+    "definition_en": "Able to adapt or be adapted to many different functions or activities.",
+    "translation_es": "versátil",
+    "examples": [
+      "Python is an exceptionally [BLANK] language used in web dev, data science, and DevOps.",
+      "Docker containers offer a [BLANK] environment for deploying heterogeneous apps.",
+      "A [BLANK] systems engineer can handle both cloud networks and backend databases."
+    ],
+    "examples_es": [
+      "Python es un lenguaje excepcionalmente [versátil] utilizado en desarrollo web, ciencia de datos y DevOps.",
+      "Los contenedores Docker ofrecen un entorno [versátil] para desplegar aplicaciones heterogéneas.",
+      "Un ingeniero de sistemas [versátil] es capaz de gestionar tanto redes en la nube como bases de datos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"versátil\". Definición: Able to adapt or be adapted to many different functions or activities."
+  },
+  {
+    "id": "ud1_viewpoint",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Viewpoint",
+    "definition_en": "A particular perspective or attitude from which something is considered.",
+    "translation_es": "punto de vista",
+    "examples": [
+      "From a security [BLANK], storing raw API keys in GitHub repositories is catastrophic.",
+      "The frontend designer approached the issue from a user-experience [BLANK].",
+      "During architectural review, every developer is encouraged to express their [BLANK]."
+    ],
+    "examples_es": [
+      "Desde un [punto de vista] de seguridad, guardar claves de API en texto plano en GitHub es catastrófico.",
+      "El diseñador frontend abordó el problema desde el [punto de vista] de la experiencia de usuario.",
+      "Durante la revisión de arquitectura, se anima a cada programador a expresar su [punto de vista]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"punto de vista\". Definición: A particular perspective or attitude from which something is considered."
+  },
+  {
+    "id": "ud1_well_being",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Well-being",
+    "definition_en": "The state of being comfortable, healthy, productive, and satisfied at work.",
+    "translation_es": "bienestar",
+    "examples": [
+      "Preventing developer burnout is essential for the long-term [BLANK] of our tech team.",
+      "Flexible remote working policies significantly improved employee [BLANK].",
+      "Ergonomic office equipment supports the physical [BLANK] of programmers."
+    ],
+    "examples_es": [
+      "Prevenir el agotamiento de los programadores es esencial para el [bienestar] a largo plazo del equipo.",
+      "Las políticas de teletrabajo flexible mejoraron notablemente el [bienestar] de los empleados.",
+      "El mobiliario ergonómico de oficina favorece el [bienestar] físico de los desarrolladores."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"bienestar\". Definición: The state of being comfortable, healthy, productive, and satisfied at work."
+  },
+  {
+    "id": "ud1_workflow",
+    "lesson": "Unit 1 - Comprensión oral precisa",
+    "word": "Workflow",
+    "definition_en": "The sequence of industrial, administrative, or computational processes.",
+    "translation_es": "flujo de trabajo",
+    "examples": [
+      "Git branch protection rules enforce a consistent code review [BLANK].",
+      "Automating ticket creation streamlined our IT customer support [BLANK].",
+      "GitHub Actions allows developers to define automated CI/CD [BLANK] in YAML files."
+    ],
+    "examples_es": [
+      "Las reglas de protección de ramas en Git imponen un [flujo de trabajo] coherente para la revisión de código.",
+      "Automatizar la creación de tickets agilizó nuestro [flujo de trabajo] de atención al cliente de TI.",
+      "GitHub Actions permite definir [flujos de trabajo] automatizados de CI/CD mediante archivos YAML."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"flujo de trabajo\". Definición: The sequence of industrial, administrative, or computational processes."
+  },
+  {
+    "id": "ud2_acknowledging",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Acknowledging",
+    "definition_en": "Accepting, admitting, or confirming the receipt or validity of information.",
+    "translation_es": "reconociendo; confirmando",
+    "examples": [
+      "By [BLANK] user feedback early, we improved our app satisfaction score.",
+      "The support engineer started the call by [BLANK] the customer's frustration.",
+      "The server responded by [BLANK] the receipt of the telemetry data packets."
+    ],
+    "examples_es": [
+      "Al [reconocer / tener en cuenta] los comentarios de los usuarios a tiempo, mejoramos la nota de nuestra app.",
+      "El ingeniero de soporte comenzó la llamada [reconociendo / validando] la frustración del cliente.",
+      "El servidor respondió [confirmando / reconociendo] la recepción de los paquetes de datos de telemetría."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"reconociendo; confirmando\". Definición: Accepting, admitting, or confirming the receipt or validity of information."
+  },
+  {
+    "id": "ud2_assist",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Assist",
+    "definition_en": "To help or provide technical support to someone in completing a task.",
+    "translation_es": "ayudar; asistir",
+    "examples": [
+      "Our automated chatbot can [BLANK] users with password reset inquiries.",
+      "The senior database administrator offered to [BLANK] with the complex SQL query.",
+      "We deployed a junior engineer to [BLANK] on-site clients with hardware setup."
+    ],
+    "examples_es": [
+      "Nuestro chatbot automatizado puede [ayudar/asistir] a los usuarios en las solicitudes de restablecimiento de contraseña.",
+      "El administrador sénior de bases de datos se ofreció a [ayudar] con la compleja consulta SQL.",
+      "Enviamos a un ingeniero junior para [asistir/ayudar] a los clientes presenciales en la configuración del hardware."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"ayudar; asistir\". Definición: To help or provide technical support to someone in completing a task."
+  },
+  {
+    "id": "ud2_assurance",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Assurance",
+    "definition_en": "A positive declaration intended to give confidence and certainty.",
+    "translation_es": "garantía; seguridad",
+    "examples": [
+      "The service level agreement provides [BLANK] of 99.9% network availability.",
+      "Quality [BLANK] engineers rigorously test every build before release.",
+      "The cloud provider offered strong [BLANK] regarding data sovereignty and compliance."
+    ],
+    "examples_es": [
+      "El acuerdo de nivel de servicio (SLA) ofrece la [garantía / seguridad] de un 99,9% de disponibilidad de red.",
+      "Los ingenieros de [garantía] de calidad (QA) prueban rigurosamente cada compilación antes del lanzamiento.",
+      "El proveedor de la nube ofreció firmes [garantías] sobre la soberanía y el cumplimiento normativo de los datos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"garantía; seguridad\". Definición: A positive declaration intended to give confidence and certainty."
+  },
+  {
+    "id": "ud2_capabilities",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Capabilities",
+    "definition_en": "The power or abilities that a computer system, application, or tool possesses.",
+    "translation_es": "capacidades; funcionalidades",
+    "examples": [
+      "The new graphic processing unit expands our machine learning [BLANK].",
+      "Modern browsers possess advanced WebAssembly [BLANK] for high-speed execution.",
+      "We evaluated the security [BLANK] of several competing cloud platforms."
+    ],
+    "examples_es": [
+      "La nueva unidad de procesamiento gráfico amplía nuestras [capacidades/posibilidades] en aprendizaje automático.",
+      "Los navegadores modernos poseen avanzadas [capacidades] de WebAssembly para ejecución a alta velocidad.",
+      "Evaluamos las [capacidades / características] de seguridad de varias plataformas cloud de la competencia."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"capacidades; funcionalidades\". Definición: The power or abilities that a computer system, application, or tool possesses."
+  },
+  {
+    "id": "ud2_cloud_service_provider",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Cloud service provider",
+    "definition_en": "A third-party company offering cloud computing components and infrastructure.",
+    "translation_es": "proveedor de servicios en la nube",
+    "examples": [
+      "AWS, Microsoft Azure, and Google Cloud are each a major [BLANK].",
+      "Our startup selected a European [BLANK] to comply with GDPR privacy laws.",
+      "Migrating database backups to a reliable [BLANK] ensures high disaster resilience."
+    ],
+    "examples_es": [
+      "AWS, Microsoft Azure y Google Cloud son, cada uno de ellos, un importante [proveedor de servicios en la nube].",
+      "Nuestra startup eligió un [proveedor de servicios en la nube] europeo para cumplir con el RGPD.",
+      "Migrar las copias de seguridad a un [proveedor en la nube] fiable garantiza una gran resistencia ante desastres."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"proveedor de servicios en la nube\". Definición: A third-party company offering cloud computing components and infrastructure."
+  },
+  {
+    "id": "ud2_confident",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Confident",
+    "definition_en": "Feeling or showing certainty and trust in a system or outcome.",
+    "translation_es": "seguro; convencido",
+    "examples": [
+      "The QA lead feels [BLANK] that the latest patch fixes the critical race condition.",
+      "Developers became more [BLANK] deploying on Fridays thanks to automated testing.",
+      "We are [BLANK] that this architecture will easily handle Black Friday traffic."
+    ],
+    "examples_es": [
+      "El responsable de calidad está [seguro/convencido] de que el último parche corrige la condición de carrera.",
+      "Los desarrolladores ganaron [seguridad/confianza] al desplegar en viernes gracias a los tests automatizados.",
+      "Estamos [seguros/convencidos] de que esta arquitectura soportará sin problemas el tráfico del Black Friday."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"seguro; convencido\". Definición: Feeling or showing certainty and trust in a system or outcome."
+  },
+  {
+    "id": "ud2_delve",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Delve",
+    "definition_en": "To investigate or research deeply into technical data or problem roots.",
+    "translation_es": "indagar; investigar a fondo",
+    "examples": [
+      "Let us [BLANK] deeper into the application crash dumps to identify the core cause.",
+      "Engineers must [BLANK] into the legacy assembly code to diagnose memory leaks.",
+      "The cybersecurity team will [BLANK] into the suspicious server access logs."
+    ],
+    "examples_es": [
+      "Vamos a [indagar/profundizar] más en los volcados de memoria para identificar la causa raíz de la caída.",
+      "Los ingenieros deben [indagar/investigar] en el código heredado para diagnosticar las fugas de memoria.",
+      "El equipo de ciberseguridad va a [indagar/analizar a fondo] los sospechosos registros de acceso al servidor."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"indagar; investigar a fondo\". Definición: To investigate or research deeply into technical data or problem roots."
+  },
+  {
+    "id": "ud2_dive_in",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Dive in",
+    "definition_en": "To start doing something enthusiastically or explore a topic thoroughly.",
+    "translation_es": "profundizar; sumergirse",
+    "examples": [
+      "Before we write code, let us [BLANK] to the API technical specification.",
+      "New team members are encouraged to [BLANK] and inspect the GitHub repository.",
+      "We will [BLANK] to the network configuration files during tomorrow morning's workshop."
+    ],
+    "examples_es": [
+      "Antes de ponernos a escribir código, vamos a [sumergirnos / profundizar] en la especificación técnica de la API.",
+      "Se anima a los nuevos miembros del equipo a [adentrarse / sumergirse] e inspeccionar el repositorio en GitHub.",
+      "Vamos a [profundizar] en los archivos de configuración de red durante el taller de mañana por la mañana."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"profundizar; sumergirse\". Definición: To start doing something enthusiastically or explore a topic thoroughly."
+  },
+  {
+    "id": "ud2_drop_by",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Drop by",
+    "definition_en": "To make a brief, informal visit to someone's office or workstation.",
+    "translation_es": "pasar por; visitar",
+    "examples": [
+      "Feel free to [BLANK] my desk if you need help resolving merge conflicts.",
+      "The IT systems technician promised to [BLANK] this afternoon to install the new SSD.",
+      "Could you [BLANK] the server room to verify that the power LED is green?"
+    ],
+    "examples_es": [
+      "Pásate [a visitar / por] mi mesa con total libertad si necesitas ayuda para resolver conflictos de fusión en Git.",
+      "El técnico de sistemas prometió [pasar por aquí / visitar] esta tarde para instalar el nuevo disco SSD.",
+      "¿Podrías [pasarte por] la sala de servidores para comprobar que el LED de encendido está en verde?"
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"pasar por; visitar\". Definición: To make a brief, informal visit to someone's office or workstation."
+  },
+  {
+    "id": "ud2_engagement",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Engagement",
+    "definition_en": "Active involvement, dedication, or contract commitment.",
+    "translation_es": "compromiso; participación",
+    "examples": [
+      "Interactive daily standups boost team [BLANK] and project clarity.",
+      "User [BLANK] metrics jumped by 40% after releasing the new mobile dashboard.",
+      "The consultancy signed a six-month [BLANK] to oversee the cloud migration."
+    ],
+    "examples_es": [
+      "Las reuniones diarias participativas aumentan el [compromiso/implicación] del equipo y la claridad del proyecto.",
+      "Las métricas de [interacción/participación] de usuarios aumentaron un 40% tras lanzar el nuevo panel móvil.",
+      "La consultora firmó un [compromiso/contrato] de seis meses para supervisar la migración a la nube."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"compromiso; participación\". Definición: Active involvement, dedication, or contract commitment."
+  },
+  {
+    "id": "ud2_facial_recognition",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Facial recognition",
+    "definition_en": "Biometric technology that identifies or verifies a person using their face.",
+    "translation_es": "reconocimiento facial",
+    "examples": [
+      "The new office security turnstile uses [BLANK] to grant building access.",
+      "Smartphone authentication has popularized [BLANK] as a convenient biometric lock.",
+      "Privacy advocates raised concerns over municipal use of [BLANK] in public areas."
+    ],
+    "examples_es": [
+      "El nuevo torno de seguridad de la oficina utiliza [reconocimiento facial] para permitir el acceso al edificio.",
+      "La autenticación en teléfonos inteligentes ha popularizado el [reconocimiento facial] como bloqueo biométrico.",
+      "Defensores de la privacidad expresaron su preocupación por el uso municipal de [reconocimiento facial] en vías públicas."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"reconocimiento facial\". Definición: Biometric technology that identifies or verifies a person using their face."
+  },
+  {
+    "id": "ud2_features",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Features",
+    "definition_en": "Distinctive attributes, capabilities, or aspects of a software product.",
+    "translation_es": "características; funcionalidades",
+    "examples": [
+      "The next major release includes several exciting accessibility [BLANK].",
+      "Product managers prioritize customer-requested [BLANK] in the sprint backlog.",
+      "Security [BLANK] such as two-factor authentication must never be optional."
+    ],
+    "examples_es": [
+      "El próximo lanzamiento principal incluye varias interesantes [características/funciones] de accesibilidad.",
+      "Los gestores de producto priorizan las [características/funciones] solicitadas por los clientes en el backlog.",
+      "Las [funciones] de seguridad, como la autenticación en dos pasos, nunca deben ser opcionales."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"características; funcionalidades\". Definición: Distinctive attributes, capabilities, or aspects of a software product."
+  },
+  {
+    "id": "ud2_feedback",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Feedback",
+    "definition_en": "Information about reactions to a product or a person's performance.",
+    "translation_es": "retroalimentación; comentarios",
+    "examples": [
+      "User [BLANK] collected during beta testing helped us redesign the navigation bar.",
+      "Constructive [BLANK] during code reviews makes all engineers write better code.",
+      "We sent a satisfaction survey to collect customer [BLANK] on the recent upgrade."
+    ],
+    "examples_es": [
+      "Los [comentarios / la retroalimentación] de los usuarios en la fase beta nos ayudaron a rediseñar la barra de navegación.",
+      "Los [comentarios constructivos] durante las revisiones de código ayudan a todos los programadores a mejorar.",
+      "Enviamos una encuesta de satisfacción para recoger la [opinión/retroalimentación] de los clientes sobre la actualización."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"retroalimentación; comentarios\". Definición: Information about reactions to a product or a person's performance."
+  },
+  {
+    "id": "ud2_foundation",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Foundation",
+    "definition_en": "The underlying basis, framework, or principle on which an idea or system rests.",
+    "translation_es": "fundamento; base",
+    "examples": [
+      "A solid grasp of data structures is the [BLANK] of proficient software engineering.",
+      "Relational database normalization lays the [BLANK] for data integrity.",
+      "Security must be built into the core [BLANK] of any cloud infrastructure."
+    ],
+    "examples_es": [
+      "Un dominio sólido de las estructuras de datos es el [fundamento/pilar] de una buena ingeniería de software.",
+      "La normalización de bases de datos relacionales sienta la [base/fundamento] para la integridad de los datos.",
+      "La seguridad debe construirse en la [base/fundamento] misma de cualquier infraestructura en la nube."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"fundamento; base\". Definición: The underlying basis, framework, or principle on which an idea or system rests."
+  },
+  {
+    "id": "ud2_frustrating",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Frustrating",
+    "definition_en": "Causing annoyance, discouragement, or disappointment.",
+    "translation_es": "frustrante",
+    "examples": [
+      "Dealing with intermittent, non-reproducible software bugs is deeply [BLANK].",
+      "Slow build pipelines are extremely [BLANK] for developers waiting for CI feedback.",
+      "Unclear API error messages are [BLANK] for third-party integration partners."
+    ],
+    "examples_es": [
+      "Tener que lidiar con errores de software intermitentes e imposibles de reproducir es muy [frustrante].",
+      "Los procesos de compilación lentos resultan enormemente [frustrantes] para los desarrolladores.",
+      "Los mensajes de error confusos de una API son muy [frustrantes] para los desarrolladores externos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"frustrante\". Definición: Causing annoyance, discouragement, or disappointment."
+  },
+  {
+    "id": "ud2_implications",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Implications",
+    "definition_en": "The likely consequences, effects, or results of an action or design choice.",
+    "translation_es": "implicaciones; consecuencias",
+    "examples": [
+      "We must examine the legal [BLANK] before storing user data on overseas servers.",
+      "Deprecating this public API endpoint carries major [BLANK] for mobile clients.",
+      "What are the financial [BLANK] of migrating our database to an enterprise tier?"
+    ],
+    "examples_es": [
+      "Debemos examinar las [implicaciones/consecuencias] legales antes de almacenar datos de usuarios en servidores extranjeros.",
+      "Descatalogar este endpoint público de la API conlleva grandes [implicaciones] para las aplicaciones móviles.",
+      "¿Cuáles son las [implicaciones] financieras de migrar nuestra base de datos a un nivel empresarial?"
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"implicaciones; consecuencias\". Definición: The likely consequences, effects, or results of an action or design choice."
+  },
+  {
+    "id": "ud2_intrusion_attempts",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Intrusion attempts",
+    "definition_en": "Unauthorized efforts to gain illegal access to a network, server, or system.",
+    "translation_es": "intentos de intrusión",
+    "examples": [
+      "The intrusion detection system logged over 500 [BLANK] from botnet IP addresses.",
+      "Rate limiting authentication requests helps block brute-force [BLANK].",
+      "Security engineers analyze repeated [BLANK] to patch perimeter vulnerabilities."
+    ],
+    "examples_es": [
+      "El sistema de detección de intrusiones registró más de 500 [intentos de intrusión] procedentes de botnets.",
+      "Limitar la frecuencia de peticiones de login ayuda a bloquear [intentos de intrusión] por fuerza bruta.",
+      "Los ingenieros de seguridad analizan los repetidos [intentos de intrusión] para proteger el perímetro."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"intentos de intrusión\". Definición: Unauthorized efforts to gain illegal access to a network, server, or system."
+  },
+  {
+    "id": "ud2_migrate",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Migrate",
+    "definition_en": "To move data, software, or workloads from one operating environment to another.",
+    "translation_es": "migrar; transferir",
+    "examples": [
+      "Our company decided to [BLANK] its monolithic backend to AWS Lambda serverless.",
+      "It took forty-eight hours to safely [BLANK] the production database cluster.",
+      "Enterprises often hire cloud specialists to [BLANK] legacy applications seamlessly."
+    ],
+    "examples_es": [
+      "Nuestra empresa decidió [migrar/trasladar] su backend monolítico a funciones serverless en AWS Lambda.",
+      "Hicieron falta cuarenta y ocho horas para [migrar/transferir] con seguridad el clúster de base de datos de producción.",
+      "Las grandes empresas contratan especialistas en la nube para [migrar] sus aplicaciones heredadas sin cortes."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"migrar; transferir\". Definición: To move data, software, or workloads from one operating environment to another."
+  },
+  {
+    "id": "ud2_on_screen_instructions",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "On-screen instructions",
+    "definition_en": "Written guidance displayed directly on a user interface to direct actions.",
+    "translation_es": "instrucciones en pantalla",
+    "examples": [
+      "Follow the [BLANK] carefully to configure your two-factor authentication token.",
+      "The operating system installation wizard provides clear, step-by-step [BLANK].",
+      "If the software setup fails, read the [BLANK] for troubleshooting suggestions."
+    ],
+    "examples_es": [
+      "Siga atentamente las [instrucciones en pantalla] para configurar su token de autenticación en dos factores.",
+      "El asistente de instalación del sistema operativo proporciona claras [instrucciones en pantalla] paso a paso.",
+      "Si la configuración del software falla, lea las [instrucciones en pantalla] para ver sugerencias de resolución."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"instrucciones en pantalla\". Definición: Written guidance displayed directly on a user interface to direct actions."
+  },
+  {
+    "id": "ud2_oversight",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Oversight",
+    "definition_en": "Management supervision, or alternatively an unintentional mistake.",
+    "translation_es": "supervisión; descuido",
+    "examples": [
+      "Technical architecture requires careful engineering [BLANK] to avoid tech debt.",
+      "Failing to encrypt user passwords in the staging database was a grave [BLANK].",
+      "Regulatory compliance [BLANK] ensures financial software satisfies data security laws."
+    ],
+    "examples_es": [
+      "La arquitectura técnica requiere una cuidadosa [supervisión] de ingeniería para no acumular deuda técnica.",
+      "Olvidar cifrar las contraseñas de usuario en la base de datos de pruebas fue un grave [descuido/omisión].",
+      "La [supervisión] del cumplimiento normativo garantiza que el software financiero cumpla las leyes de seguridad."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"supervisión; descuido\". Definición: Management supervision, or alternatively an unintentional mistake."
+  },
+  {
+    "id": "ud2_paraphrasing",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Paraphrasing",
+    "definition_en": "Expressing the meaning of written or spoken words using different terms.",
+    "translation_es": "parafrasear; reformulación",
+    "examples": [
+      "When confirming customer requirements, [BLANK] their requests ensures mutual understanding.",
+      "Effective technical communicators use [BLANK] to simplify complex concepts.",
+      "[BLANK] during scrum meetings prevents misunderstandings about task scope."
+    ],
+    "examples_es": [
+      "Al confirmar los requisitos del cliente, [parafrasear] sus peticiones garantiza un entendimiento mutuo.",
+      "Los buenos comunicadores técnicos recurren al [parafraseo / a parafrasear] para explicar conceptos complejos.",
+      "[Parafrasear] durante las reuniones scrum evita malentendidos sobre el alcance de las tareas."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"parafrasear; reformulación\". Definición: Expressing the meaning of written or spoken words using different terms."
+  },
+  {
+    "id": "ud2_promotes",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Promotes",
+    "definition_en": "Supports, furthers the progress of, or raises to a higher position.",
+    "translation_es": "promover; fomentar",
+    "examples": [
+      "Continuous deployment [BLANK] a culture of small, frequent, and safe releases.",
+      "The engineering department actively [BLANK] diversity and inclusive hiring.",
+      "Writing modular code [BLANK] reusability across multiple client projects."
+    ],
+    "examples_es": [
+      "El despliegue continuo [promueve/fomenta] una cultura de versiones pequeñas, frecuentes y seguras.",
+      "El departamento de ingeniería [promueve/fomenta] activamente la diversidad y la contratación inclusiva.",
+      "Escribir código modular [promueve/favorece] la reutilización en múltiples proyectos de clientes."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"promover; fomentar\". Definición: Supports, furthers the progress of, or raises to a higher position."
+  },
+  {
+    "id": "ud2_recap",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Recap",
+    "definition_en": "A brief summary or review of the main points discussed.",
+    "translation_es": "resumen; resumir",
+    "examples": [
+      "At the end of the sprint demo, the product owner provided a quick [BLANK].",
+      "Let us do a short [BLANK] of the firewall configuration steps before applying them.",
+      "The technical documentation opens with a helpful [BLANK] of release highlights."
+    ],
+    "examples_es": [
+      "Al final de la demostración del sprint, el responsable de producto ofreció un rápido [resumen/repaso].",
+      "Hagamos un breve [resumen/repaso] de los pasos de configuración del cortafuegos antes de aplicarlos.",
+      "La documentación técnica comienza con un útil [resumen/recapitulación] de las novedades de la versión."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"resumen; resumir\". Definición: A brief summary or review of the main points discussed."
+  },
+  {
+    "id": "ud2_rerouting",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Rerouting",
+    "definition_en": "Sending traffic, packets, or signals along a different route.",
+    "translation_es": "reenrutamiento",
+    "examples": [
+      "The network switch began dynamic [BLANK] to avoid the congested fiber optic trunk.",
+      "DNS [BLANK] redirected international users to the nearest regional data center.",
+      "Automated [BLANK] prevents downtime when an internet service provider experiences a blackout."
+    ],
+    "examples_es": [
+      "El conmutador de red inició un [reenrutamiento] dinámico para evitar la línea de fibra óptica congestionada.",
+      "El [reenrutamiento] por DNS redirigió a los usuarios internacionales al centro de datos regional más cercano.",
+      "El [reenrutamiento] automatizado evita caídas cuando un proveedor de internet sufre un corte de fibra."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"reenrutamiento\". Definición: Sending traffic, packets, or signals along a different route."
+  },
+  {
+    "id": "ud2_scheduled_backup",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Scheduled backup",
+    "definition_en": "An automated process that copies and archives system data at set intervals.",
+    "translation_es": "respaldo programado",
+    "examples": [
+      "The database runs a daily [BLANK] every night at 02:00 AM UTC.",
+      "Never disable the [BLANK] routine, as it is critical for disaster recovery.",
+      "Our cloud storage bucket automatically verifies the checksum of each [BLANK]."
+    ],
+    "examples_es": [
+      "La base de datos ejecuta una [copia de seguridad programada / respaldo programado] cada noche a las 02:00 UTC.",
+      "Nunca desactives la rutina de [copia de seguridad programada], ya que es vital para la recuperación ante desastres.",
+      "Nuestro almacenamiento en la nube comprueba automáticamente la integridad de cada [copia programada]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"respaldo programado\". Definición: An automated process that copies and archives system data at set intervals."
+  },
+  {
+    "id": "ud2_security_settings",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Security settings",
+    "definition_en": "Parameters that define the protective posture and access controls of a system.",
+    "translation_es": "configuraciones de seguridad",
+    "examples": [
+      "Review your browser [BLANK] to block third-party tracking cookies.",
+      "The system administrator updated the SSH [BLANK] to disallow root password login.",
+      "Stricter [BLANK] were applied to all employee laptops after the phishing incident."
+    ],
+    "examples_es": [
+      "Revise la [configuración de seguridad] de su navegador para bloquear cookies de seguimiento de terceros.",
+      "El administrador del sistema actualizó la [configuración de seguridad] SSH para impedir el acceso con contraseña a root.",
+      "Se aplicó una [configuración de seguridad] más estricta a todos los portátiles tras el intento de phishing."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"configuraciones de seguridad\". Definición: Parameters that define the protective posture and access controls of a system."
+  },
+  {
+    "id": "ud2_solution_oriented",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Solution-Oriented",
+    "definition_en": "Focusing actively on finding answers and constructive fixes to problems.",
+    "translation_es": "orientado a soluciones",
+    "examples": [
+      "Senior tech leads appreciate developers who bring a [BLANK] mindset to incidents.",
+      "Rather than arguing over blame, the outage post-mortem was entirely [BLANK].",
+      "A [BLANK] approach is critical when negotiating tight customer project deadlines."
+    ],
+    "examples_es": [
+      "Los líderes técnicos valoran a los desarrolladores que muestran una actitud [orientada a soluciones] ante los incidentes.",
+      "En lugar de buscar culpables, el análisis posterior a la caída del servidor estuvo totalmente [orientado a soluciones].",
+      "Un enfoque [orientado a soluciones] es clave al negociar plazos ajustados en proyectos con clientes."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"orientado a soluciones\". Definición: Focusing actively on finding answers and constructive fixes to problems."
+  },
+  {
+    "id": "ud2_straightforward",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Straightforward",
+    "definition_en": "Uncomplicated, simple to understand, and easy to execute.",
+    "translation_es": "directo; claro",
+    "examples": [
+      "Deploying this static website to Netlify is remarkably [BLANK].",
+      "The API documentation provides a clear, [BLANK] tutorial for beginners.",
+      "Upgrading the RAM in this server chassis is a quick and [BLANK] procedure."
+    ],
+    "examples_es": [
+      "Desplegar este sitio web estático en Netlify es algo extraordinariamente [sencillo / directo / claro].",
+      "La documentación de la API ofrece un tutorial claro y [sencillo / directo] para principiantes.",
+      "Ampliar la memoria RAM en este chasis de servidor es un procedimiento rápido y [sencillo / directo]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"directo; claro\". Definición: Uncomplicated, simple to understand, and easy to execute."
+  },
+  {
+    "id": "ud2_stunning",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Stunning",
+    "definition_en": "Extremely impressive, remarkable, or visually attractive.",
+    "translation_es": "impresionante",
+    "examples": [
+      "The high-resolution 4K rendering capabilities of the new engine are [BLANK].",
+      "The data visualization dashboard generated [BLANK] interactive graphics.",
+      "Achieving zero downtime during a full datacenter migration was a [BLANK] feat."
+    ],
+    "examples_es": [
+      "Las capacidades de renderizado 4K del nuevo motor gráfico son [impresionantes/asombrosas].",
+      "El panel de visualización de datos generó unos gráficos interactivos [impresionantes].",
+      "Lograr cero segundos de inactividad durante la migración del centro de datos fue una hazaña [impresionante]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"impresionante\". Definición: Extremely impressive, remarkable, or visually attractive."
+  },
+  {
+    "id": "ud2_sustaining",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Sustaining",
+    "definition_en": "Continuing, supporting, or maintaining something over a period of time.",
+    "translation_es": "mantener; sostener",
+    "examples": [
+      "[BLANK] high system performance under heavy load requires efficient database caching.",
+      "The open-source foundation is committed to [BLANK] the maintenance of Linux.",
+      "Good engineering practices are crucial for [BLANK] team velocity over long projects."
+    ],
+    "examples_es": [
+      "[Mantener/sostener] un alto rendimiento bajo mucha carga requiere una eficiente caché de base de datos.",
+      "La fundación de código abierto está comprometida con [mantener/sostener] el desarrollo continuo de Linux.",
+      "Las buenas prácticas de ingeniería son cruciales para [mantener/sostener] el ritmo del equipo a largo plazo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"mantener; sostener\". Definición: Continuing, supporting, or maintaining something over a period of time."
+  },
+  {
+    "id": "ud2_thoroughly",
+    "lesson": "Unit 2 - Comprensión oral global",
+    "word": "Thoroughly",
+    "definition_en": "In a comprehensive, detailed, and meticulous manner.",
+    "translation_es": "minuciosamente; a fondo",
+    "examples": [
+      "The security audit team examined the source code [BLANK] for injection flaws.",
+      "Always test database migration scripts [BLANK] on staging before production.",
+      "The QA squad documented the steps to reproduce the bug [BLANK]."
+    ],
+    "examples_es": [
+      "El equipo de auditoría de seguridad examinó el código fuente [minuciosamente / a fondo] buscando inyecciones.",
+      "Pruebe siempre los scripts de migración de base de datos [a fondo / minuciosamente] en pruebas antes de producción.",
+      "El equipo de calidad documentó [minuciosamente / al detalle] los pasos para reproducir el fallo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"minuciosamente; a fondo\". Definición: In a comprehensive, detailed, and meticulous manner."
+  },
+  {
+    "id": "ud3_additional_perks",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Additional Perks",
+    "definition_en": "Extra benefits, compensations, or privileges granted alongside a regular salary.",
+    "translation_es": "ventajas adicionales; beneficios extra",
+    "examples": [
+      "Free health insurance and gym memberships are [BLANK] offered by tech startups.",
+      "Flexible remote working hours are considered valuable [BLANK] by software developers.",
+      "Employees receive generous [BLANK], including annual tech equipment stipends."
+    ],
+    "examples_es": [
+      "El seguro médico gratuito y las suscripciones al gimnasio son [beneficios adicionales / ventajas extra] habituales en startups.",
+      "El horario de teletrabajo flexible se considera una de las [ventajas adicionales] más valoradas por los desarrolladores.",
+      "Los empleados reciben generosos [beneficios adicionales], incluyendo una asignación anual para equipamiento."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"ventajas adicionales; beneficios extra\". Definición: Extra benefits, compensations, or privileges granted alongside a regular salary."
+  },
+  {
+    "id": "ud3_backup_and_sync",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Backup and Sync",
+    "definition_en": "The automated process of saving duplicate files and syncing changes across devices.",
+    "translation_es": "copia de seguridad y sincronización",
+    "examples": [
+      "Configure cloud [BLANK] so your local project directory is protected off-site.",
+      "Google Drive and Dropbox provide automatic [BLANK] capabilities for desktop users.",
+      "The software crashed, but thanks to [BLANK], no developer notes were lost."
+    ],
+    "examples_es": [
+      "Configura la herramienta de [copia de seguridad y sincronización] en la nube para proteger tu proyecto.",
+      "Google Drive y Dropbox proporcionan funciones automáticas de [copia de seguridad y sincronización].",
+      "El software falló, pero gracias a la [copia de seguridad y sincronización], no se perdió ninguna nota de trabajo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"copia de seguridad y sincronización\". Definición: The automated process of saving duplicate files and syncing changes across devices."
+  },
+  {
+    "id": "ud3_check_for_updates",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Check for Updates",
+    "definition_en": "To inspect a remote server or repository for newer software patches or versions.",
+    "translation_es": "buscar actualizaciones",
+    "examples": [
+      "Click the help menu and select [BLANK] to see if a newer version is available.",
+      "Linux package managers routinely [BLANK] before installing required dependencies.",
+      "Our security policy mandates that operating systems [BLANK] every morning."
+    ],
+    "examples_es": [
+      "Haz clic en el menú de ayuda y selecciona [buscar actualizaciones] para comprobar si hay una versión nueva.",
+      "Los gestores de paquetes de Linux suelen [buscar actualizaciones] antes de instalar las dependencias necesarias.",
+      "Nuestra política de seguridad exige que los sistemas operativos [busquen actualizaciones] cada mañana."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"buscar actualizaciones\". Definición: To inspect a remote server or repository for newer software patches or versions."
+  },
+  {
+    "id": "ud3_compensation_package",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Compensation Package",
+    "definition_en": "The total combination of base salary, bonuses, stock equity, and benefits.",
+    "translation_es": "paquete de compensación",
+    "examples": [
+      "The senior DevOps role offers an attractive [BLANK] including stock options.",
+      "During hiring negotiations, developers evaluate the entire [BLANK], not just cash.",
+      "Our company reviewed its [BLANK] to remain competitive in recruiting talent."
+    ],
+    "examples_es": [
+      "El puesto de DevOps sénior ofrece un atractivo [paquete de compensación/retribución] que incluye acciones.",
+      "Durante las negociaciones de contratación, los desarrolladores evalúan todo el [paquete de compensación], no solo el sueldo.",
+      "Nuestra empresa revisó su [paquete de compensación/beneficios] para seguir siendo competitiva atrayendo talento."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"paquete de compensación\". Definición: The total combination of base salary, bonuses, stock equity, and benefits."
+  },
+  {
+    "id": "ud3_current_software_version",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Current Software Version",
+    "definition_en": "The specific release number or build currently installed and running.",
+    "translation_es": "versión actual del software",
+    "examples": [
+      "You can check your [BLANK] by typing the command 'docker --version' in the terminal.",
+      "Ensure that your [BLANK] is compatible with the latest database drivers.",
+      "The security vulnerability only affects installations prior to the [BLANK]."
+    ],
+    "examples_es": [
+      "Puedes consultar tu [versión actual del software] escribiendo el comando 'docker --version' en el terminal.",
+      "Asegúrate de que tu [versión actual del software] sea compatible con los nuevos controladores de base de datos.",
+      "La vulnerabilidad de seguridad solo afecta a instalaciones anteriores a la [versión actual del software]."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"versión actual del software\". Definición: The specific release number or build currently installed and running."
+  },
+  {
+    "id": "ud3_inferential_comprehension",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Inferential Comprehension",
+    "definition_en": "The cognitive ability to deduce unstated meanings, context, or implied information.",
+    "translation_es": "comprensión inferencial",
+    "examples": [
+      "Reading between the lines in technical whitepapers requires good [BLANK].",
+      "Advanced exams test [BLANK] rather than simple memorization of facts.",
+      "[BLANK] helps developers anticipate edge cases when reading user requirements."
+    ],
+    "examples_es": [
+      "Leer entre líneas en informes técnicos avanzados requiere una buena [comprensión inferencial].",
+      "Los exámenes de nivel superior evalúan la [comprensión inferencial] en lugar de la simple memorización de datos.",
+      "La [comprensión inferencial] ayuda a los programadores a anticipar casos límite al leer los requisitos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"comprensión inferencial\". Definición: The cognitive ability to deduce unstated meanings, context, or implied information."
+  },
+  {
+    "id": "ud3_know_your_worth",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Know Your Worth",
+    "definition_en": "Being conscious and confident of one's professional skills, value, and market price.",
+    "translation_es": "conoce tu valor",
+    "examples": [
+      "When negotiating freelance contract rates, it is crucial to [BLANK].",
+      "Experienced software developers [BLANK] in today's competitive global tech market.",
+      "Career coaches advise engineers to [BLANK] before attending salary interviews."
+    ],
+    "examples_es": [
+      "Al negociar tarifas como desarrollador freelance, es crucial [conocer tu valor].",
+      "Los programadores experimentados [conocen su valor] en el competitivo mercado tecnológico actual.",
+      "Los orientadores profesionales aconsejan a los ingenieros [conocer su valor] antes de acudir a entrevistas de salario."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"conoce tu valor\". Definición: Being conscious and confident of one's professional skills, value, and market price."
+  },
+  {
+    "id": "ud3_multitasking",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Multitasking",
+    "definition_en": "The ability to execute multiple tasks, programs, or operations concurrently.",
+    "translation_es": "multitarea",
+    "examples": [
+      "Modern multi-core processors excel at hardware [BLANK] without performance degradation.",
+      "While humans struggle with cognitive [BLANK], operating system kernels are built for it.",
+      "The job description highlights efficient [BLANK] and time management skills."
+    ],
+    "examples_es": [
+      "Los procesadores multinúcleo modernos destacan en la [multitarea] por hardware sin perder rendimiento.",
+      "Aunque a los humanos nos cuesta la [multitarea] cognitiva, los núcleos del sistema operativo están hechos para ella.",
+      "La oferta de empleo destaca la capacidad de [multitarea] eficiente y las habilidades de gestión del tiempo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"multitarea\". Definición: The ability to execute multiple tasks, programs, or operations concurrently."
+  },
+  {
+    "id": "ud3_outlines",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Outlines",
+    "definition_en": "General descriptions, frameworks, or summaries giving the essential parts.",
+    "translation_es": "esquemas; borradores",
+    "examples": [
+      "The software engineer prepared detailed [BLANK] before beginning architecture design.",
+      "Review the project [BLANK] to understand the delivery timeline and sprint phases.",
+      "Course [BLANK] help IT students plan their study schedule across the semester."
+    ],
+    "examples_es": [
+      "El ingeniero de software preparó [esquemas/borradores] detallados antes de comenzar con el diseño de la arquitectura.",
+      "Revise los [esquemas/resúmenes] del proyecto para comprender el calendario de entregas y las fases del sprint.",
+      "Los [esquemas] de las asignaturas ayudan a los estudiantes de informática a planificar su calendario de estudio."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"esquemas; borradores\". Definición: General descriptions, frameworks, or summaries giving the essential parts."
+  },
+  {
+    "id": "ud3_reports",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Reports",
+    "definition_en": "Detailed analytical accounts, summaries, or presentations of findings.",
+    "translation_es": "informes",
+    "examples": [
+      "The penetration testing agency submitted comprehensive vulnerability [BLANK].",
+      "Automated monitoring systems generate weekly server uptime and latency [BLANK].",
+      "Bug [BLANK] submitted on GitHub should always include clear reproduction steps."
+    ],
+    "examples_es": [
+      "La agencia de pruebas de penetración presentó completos [informes] de vulnerabilidades.",
+      "Los sistemas de monitorización automatizada generan [informes] semanales de tiempo de actividad y latencia.",
+      "Los [informes] de errores enviados en GitHub siempre deben incluir pasos claros para reproducirlos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"informes\". Definición: Detailed analytical accounts, summaries, or presentations of findings."
+  },
+  {
+    "id": "ud3_restart",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Restart",
+    "definition_en": "To reboot or start a computer, application, or service again.",
+    "translation_es": "reiniciar",
+    "examples": [
+      "After applying kernel patches, the systems administrator had to [BLANK] the node.",
+      "If the background worker daemon hangs, please [BLANK] the service using systemctl.",
+      "A quick [BLANK] of the network modem resolved the packet drop issue."
+    ],
+    "examples_es": [
+      "Tras aplicar los parches del kernel, el administrador de sistemas tuvo que [reiniciar] el nodo.",
+      "Si el proceso en segundo plano se queda bloqueado, por favor [reinicie] el servicio con systemctl.",
+      "Un rápido [reinicio] del router de red solucionó el problema de pérdida de paquetes."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"reiniciar\". Definición: To reboot or start a computer, application, or service again."
+  },
+  {
+    "id": "ud3_retirement_plans",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Retirement Plans",
+    "definition_en": "Financial arrangements, pensions, or 401(k) accounts for when an employee retires.",
+    "translation_es": "planes de jubilación",
+    "examples": [
+      "Many corporate IT employers offer matching contributions to employee [BLANK].",
+      "HR explained the company pension scheme and voluntary [BLANK] during onboarding.",
+      "Investing early in employer-sponsored [BLANK] provides long-term financial security."
+    ],
+    "examples_es": [
+      "Muchas empresas tecnológicas ofrecen aportaciones complementarias a los [planes de jubilación/pensiones] de sus empleados.",
+      "Recursos Humanos explicó el sistema de pensiones y los [planes de jubilación] voluntarios durante la acogida.",
+      "Invertir pronto en [planes de jubilación] patrocinados por la empresa aporta seguridad financiera a largo plazo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"planes de jubilación\". Definición: Financial arrangements, pensions, or 401(k) accounts for when an employee retires."
+  },
+  {
+    "id": "ud3_safety_standards",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Safety Standards",
+    "definition_en": "Official regulations and protocols established to protect equipment, data, or workers.",
+    "translation_es": "normas de seguridad",
+    "examples": [
+      "Datacenter technicians must strictly adhere to electrical and physical [BLANK].",
+      "Compliance with ISO 27001 certifies that an organization meets rigorous [BLANK].",
+      "Failing to observe workplace [BLANK] can result in severe legal penalties."
+    ],
+    "examples_es": [
+      "Los técnicos del centro de datos deben cumplir rigurosamente las [normas de seguridad] eléctricas y físicas.",
+      "El cumplimiento de la norma ISO 27001 certifica que la organización respeta estrictas [normas de seguridad].",
+      "No respetar las [normas de seguridad] laboral puede acarrear graves sanciones legales y riesgos personales."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"normas de seguridad\". Definición: Official regulations and protocols established to protect equipment, data, or workers."
+  },
+  {
+    "id": "ud3_summary",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Summary",
+    "definition_en": "A concise statement or comprehensive recap giving the main points.",
+    "translation_es": "resumen",
+    "examples": [
+      "The lead architect opened the presentation with an executive [BLANK] of the redesign.",
+      "In [BLANK], adopting automated unit testing halved our production bug rate.",
+      "Each chapter of the technical manual concludes with a helpful vocabulary [BLANK]."
+    ],
+    "examples_es": [
+      "El arquitecto principal abrió la presentación con un [resumen] ejecutivo de la remodelación técnica.",
+      "En [resumen], adoptar pruebas unitarias automatizadas redujo a la mitad los errores en producción.",
+      "Cada capítulo del manual técnico concluye con un práctico [resumen] del vocabulario aprendido."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"resumen\". Definición: A concise statement or comprehensive recap giving the main points."
+  },
+  {
+    "id": "ud3_troubleshooting",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Troubleshooting",
+    "definition_en": "The systematic process of identifying, isolating, and fixing defects.",
+    "translation_es": "resolución de problemas; diagnóstico",
+    "examples": [
+      "Network engineers spent the afternoon [BLANK] erratic latency on the VPN bridge.",
+      "The official documentation contains an invaluable FAQ and [BLANK] guide.",
+      "Methodical [BLANK] is one of the most prized skills in a system administrator."
+    ],
+    "examples_es": [
+      "Los ingenieros de redes pasaron la tarde dedicados a la [resolución de problemas / diagnóstico] de la latencia en la VPN.",
+      "La documentación oficial contiene una valiosa sección de preguntas frecuentes y guía de [resolución de problemas].",
+      "El [diagnóstico y resolución metódica de problemas] es una de las habilidades más valoradas en un administrador."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"resolución de problemas; diagnóstico\". Definición: The systematic process of identifying, isolating, and fixing defects."
+  },
+  {
+    "id": "ud3_work_schedule",
+    "lesson": "Unit 3 - Comprensión escrita",
+    "word": "Work Schedule",
+    "definition_en": "The designated hours, days, or shifts during which an employee performs duties.",
+    "translation_es": "horario de trabajo",
+    "examples": [
+      "Our company supports a flexible [BLANK], allowing staff to work when most productive.",
+      "The 24/7 on-call [BLANK] rotates weekly among all platform reliability engineers.",
+      "Check the team calendar to see your assigned maintenance window [BLANK]."
+    ],
+    "examples_es": [
+      "Nuestra empresa admite un [horario de trabajo] flexible, permitiendo rendir en los momentos de mayor productividad.",
+      "El [horario de trabajo] de guardia 24/7 rota semanalmente entre todos los ingenieros de fiabilidad.",
+      "Consulta el calendario de equipo para ver tu [horario de trabajo] asignado durante la ventana de mantenimiento."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"horario de trabajo\". Definición: The designated hours, days, or shifts during which an employee performs duties."
+  },
+  {
+    "id": "ud4_abbreviations",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Abbreviations",
+    "definition_en": "Shortened forms of words or phrases, such as CPU, RAM, or API.",
+    "translation_es": "abreviaturas; siglas",
+    "examples": [
+      "Technical jargon is filled with confusing three-letter [BLANK] like DNS and CDN.",
+      "The style guide advises authors to define [BLANK] on their first appearance.",
+      "Junior programmers should familiarize themselves with standard networking [BLANK]."
+    ],
+    "examples_es": [
+      "El lenguaje técnico está lleno de confusas [abreviaturas/siglas] de tres letras como DNS, CDN y API.",
+      "La guía de estilo aconseja a los autores definir las [abreviaturas] en su primera aparición en el texto.",
+      "Los programadores junior deben familiarizarse con las [abreviaturas] habituales en redes de ordenadores."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"abreviaturas; siglas\". Definición: Shortened forms of words or phrases, such as CPU, RAM, or API."
+  },
+  {
+    "id": "ud4_align",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Align",
+    "definition_en": "To bring into mutual agreement, correct relative position, or strategic harmony.",
+    "translation_es": "alinear; coordinar",
+    "examples": [
+      "Product roadmaps must [BLANK] closely with overall enterprise business goals.",
+      "Daily standups help team members [BLANK] their efforts for the current sprint.",
+      "Ensure that frontend styling standards [BLANK] with the shared design system."
+    ],
+    "examples_es": [
+      "Las hojas de ruta del producto deben [alinearse/coordinarse] estrechamente con los objetivos del negocio.",
+      "Las reuniones diarias ayudan a los miembros del equipo a [alinear/coordinar] sus esfuerzos para el sprint.",
+      "Asegúrate de que los estilos del frontend se [alineen] con el sistema de diseño compartido de la empresa."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"alinear; coordinar\". Definición: To bring into mutual agreement, correct relative position, or strategic harmony."
+  },
+  {
+    "id": "ud4_campaign_management",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Campaign management",
+    "definition_en": "Planning, executing, tracking, and analyzing business or communication initiatives.",
+    "translation_es": "gestión de campañas",
+    "examples": [
+      "The marketing division utilizes automated software tools for digital [BLANK].",
+      "Analytics dashboards make email [BLANK] significantly more data-driven.",
+      "Effective [BLANK] requires monitoring click-through rates and customer retention."
+    ],
+    "examples_es": [
+      "El departamento de marketing utiliza herramientas de software para la [gestión de campañas] digitales.",
+      "Los paneles de analítica hacen que la [gestión de campañas] de correo electrónico se base mucho más en datos.",
+      "Una eficaz [gestión de campañas] requiere supervisar las tasas de apertura, clics y retención de usuarios."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"gestión de campañas\". Definición: Planning, executing, tracking, and analyzing business or communication initiatives."
+  },
+  {
+    "id": "ud4_colleague",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Colleague",
+    "definition_en": "A person with whom one works closely in a profession, business, or company.",
+    "translation_es": "colega de trabajo",
+    "examples": [
+      "I asked my senior [BLANK] to review my pull request before merging to main.",
+      "She collaborated with an overseas [BLANK] on the machine learning paper.",
+      "Treating every [BLANK] with respect creates a healthy engineering culture."
+    ],
+    "examples_es": [
+      "Le pedí a mi [colega/compañero de trabajo] sénior que revisara mi pull request antes de fusionar a la rama principal.",
+      "Ella colaboró con un [colega/compañero] extranjero en la publicación sobre inteligencia artificial.",
+      "Tratar a cada [colega/compañero de trabajo] con respeto genera una cultura de ingeniería saludable."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"colega de trabajo\". Definición: A person with whom one works closely in a profession, business, or company."
+  },
+  {
+    "id": "ud4_concise",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Concise",
+    "definition_en": "Giving a lot of clear information in a few words; brief but comprehensive.",
+    "translation_es": "conciso; breve y preciso",
+    "examples": [
+      "Write clear, [BLANK] commit messages that explain the reason for the change.",
+      "Technical documentation should be [BLANK] and avoid unnecessary wordiness.",
+      "His presentation was [BLANK], taking only ten minutes to explain the complex fix."
+    ],
+    "examples_es": [
+      "Escriba mensajes de commit claros y [concisos/breves] que expliquen el motivo del cambio en el código.",
+      "La documentación técnica debe ser [concisa/precisa] y evitar palabrería innecesaria.",
+      "Su presentación fue [concisa/breve], empleando solo diez minutos en explicar la compleja solución."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"conciso; breve y preciso\". Definición: Giving a lot of clear information in a few words; brief but comprehensive."
+  },
+  {
+    "id": "ud4_correspondence",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Correspondence",
+    "definition_en": "Written communication, letters, emails, or messages exchanged between parties.",
+    "translation_es": "correspondencia; comunicación escrita",
+    "examples": [
+      "Always maintain a polite and professional tone in official client [BLANK].",
+      "The company archives all technical [BLANK] for legal and compliance reasons.",
+      "Security policies disallow transmitting plaintext passwords in email [BLANK]."
+    ],
+    "examples_es": [
+      "Mantenga siempre un tono educado y profesional en la [correspondencia/comunicación escrita] oficial con clientes.",
+      "La empresa archiva toda la [correspondencia] técnica por motivos legales y de cumplimiento normativo.",
+      "Las políticas de seguridad prohíben enviar contraseñas en texto claro a través de la [correspondencia] por email."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"correspondencia; comunicación escrita\". Definición: Written communication, letters, emails, or messages exchanged between parties."
+  },
+  {
+    "id": "ud4_emphasizing",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Emphasizing",
+    "definition_en": "Giving special importance or prominence to something in speaking or writing.",
+    "translation_es": "destacando; haciendo hincapié",
+    "examples": [
+      "The speaker began by [BLANK] the critical importance of end-to-end encryption.",
+      "Our CTO is constantly [BLANK] code quality over reckless delivery speed.",
+      "By [BLANK] continuous learning, the tech firm retains its top software talent."
+    ],
+    "examples_es": [
+      "El ponente comenzó [haciendo hincapié en / destacando] la importancia crítica del cifrado de extremo a extremo.",
+      "Nuestro director técnico está constantemente [haciendo hincapié en / destacando] la calidad del código sobre la prisa.",
+      "[Haciendo hincapié en] el aprendizaje continuo, la empresa tecnológica retiene a sus mejores programadores."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"destacando; haciendo hincapié\". Definición: Giving special importance or prominence to something in speaking or writing."
+  },
+  {
+    "id": "ud4_enthusiasm",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Enthusiasm",
+    "definition_en": "Intense and eager enjoyment, interest, or approval for an activity.",
+    "translation_es": "entusiasmo",
+    "examples": [
+      "The junior developer tackled the challenging debugging task with tremendous [BLANK].",
+      "Her [BLANK] for open-source contributions motivated the entire engineering team.",
+      "Clients appreciated the team's visible [BLANK] during the product demonstration."
+    ],
+    "examples_es": [
+      "El desarrollador junior abordó la difícil tarea de depuración con enorme [entusiasmo/ganas].",
+      "Su [entusiasmo] por colaborar en proyectos de código abierto motivó a todo el equipo de ingenieros.",
+      "Los clientes agradecieron el visible [entusiasmo] del equipo durante la demostración de la aplicación."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"entusiasmo\". Definición: Intense and eager enjoyment, interest, or approval for an activity."
+  },
+  {
+    "id": "ud4_execute",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Execute",
+    "definition_en": "To carry out, run, or put into effect a plan, command, or computer program.",
+    "translation_es": "ejecutar; llevar a cabo",
+    "examples": [
+      "Type this bash script in the root terminal to [BLANK] the automated backup.",
+      "The operating system scheduler will [BLANK] high-priority threads first.",
+      "Our DevOps team managed to [BLANK] the database failover flawlessly."
+    ],
+    "examples_es": [
+      "Ejecute este script bash en el terminal como administrador para [ejecutar/lanzar] la copia de seguridad.",
+      "El planificador del sistema operativo se encargará de [ejecutar] primero los hilos de mayor prioridad.",
+      "Nuestro equipo de DevOps logró [ejecutar/llevar a cabo] la conmutación por error de la base de datos sin fallos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"ejecutar; llevar a cabo\". Definición: To carry out, run, or put into effect a plan, command, or computer program."
+  },
+  {
+    "id": "ud4_expression_of_interest",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Expression of interest",
+    "definition_en": "A formal indication by a party of interest in a contract, proposal, or job.",
+    "translation_es": "expresión de interés",
+    "examples": [
+      "Our tech agency submitted an official [BLANK] for the government cloud project.",
+      "Candidates should email their resume and an [BLANK] to the hiring manager.",
+      "The procurement portal received dozens of [BLANK] submissions from IT vendors."
+    ],
+    "examples_es": [
+      "Nuestra agencia tecnológica presentó una [expresión de interés / manifestación de interés] formal para el concurso público.",
+      "Los candidatos deben enviar su currículum y una [carta de motivación / expresión de interés] al responsable de contratación.",
+      "La plataforma de compras recibió decenas de [expresiones de interés] de empresas de servicios informáticos."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"expresión de interés\". Definición: A formal indication by a party of interest in a contract, proposal, or job."
+  },
+  {
+    "id": "ud4_follow_up",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Follow up",
+    "definition_en": "To pursue, investigate, or check on the progress of a previous action.",
+    "translation_es": "seguimiento; dar seguimiento",
+    "examples": [
+      "I will send an email tomorrow to [BLANK] on the open customer support ticket.",
+      "Make sure you [BLANK] with the client after deploying the software patch.",
+      "A structured [BLANK] process prevents reported bugs from being forgotten."
+    ],
+    "examples_es": [
+      "Enviaré un correo electrónico mañana para [hacer un seguimiento / dar seguimiento] al ticket de soporte abierto.",
+      "Asegúrate de [hacer un seguimiento / contactar de nuevo] con el cliente tras desplegar el parche de software.",
+      "Un proceso organizado de [seguimiento] evita que los fallos informados queden olvidados."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"seguimiento; dar seguimiento\". Definición: To pursue, investigate, or check on the progress of a previous action."
+  },
+  {
+    "id": "ud4_proposal",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Proposal",
+    "definition_en": "A plan, suggestion, or offer put forward for consideration by others.",
+    "translation_es": "propuesta",
+    "examples": [
+      "The systems architect submitted a detailed [BLANK] for a microservices redesign.",
+      "Stakeholders unanimously accepted the budget [BLANK] for upgrading data storage.",
+      "Each vendor must submit their software consulting [BLANK] before the deadline."
+    ],
+    "examples_es": [
+      "El arquitecto de sistemas presentó una detallada [propuesta] para el rediseño mediante microservicios.",
+      "Los accionistas aceptaron por unanimidad la [propuesta] presupuestaria para renovar los servidores de almacenamiento.",
+      "Cada empresa proveedora debe entregar su [propuesta] de consultoría de software antes de la fecha límite."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"propuesta\". Definición: A plan, suggestion, or offer put forward for consideration by others."
+  },
+  {
+    "id": "ud4_requirements",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Requirements",
+    "definition_en": "Things demanded or needed as a prerequisite for software or system compliance.",
+    "translation_es": "requisitos",
+    "examples": [
+      "Carefully gather user [BLANK] before writing a single line of backend code.",
+      "This enterprise server meets all minimum hardware [BLANK] for virtualization.",
+      "Changing [BLANK] halfway through a sprint can derail development timelines."
+    ],
+    "examples_es": [
+      "Recopile con atención los [requisitos] del usuario antes de escribir una sola línea de código en el backend.",
+      "Este servidor corporativo cumple todos los [requisitos] mínimos de hardware para virtualización.",
+      "Cambiar los [requisitos] a mitad de un sprint puede descuadrar los plazos de entrega del equipo."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"requisitos\". Definición: Things demanded or needed as a prerequisite for software or system compliance."
+  },
+  {
+    "id": "ud4_retention",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Retention",
+    "definition_en": "The continued possession, holding, or maintenance of data, customers, or employees.",
+    "translation_es": "retención",
+    "examples": [
+      "Implementing competitive salaries significantly improved engineer [BLANK].",
+      "Data privacy regulations define the maximum duration of customer log [BLANK].",
+      "User [BLANK] increased after we fixed the slow page load times in the app."
+    ],
+    "examples_es": [
+      "Ofrecer salarios competitivos mejoró notablemente la [retención] de ingenieros y talento tecnológico.",
+      "Las normativas de privacidad fijan el plazo máximo de [retención / conservación] de los registros de usuarios.",
+      "La [retención] de usuarios aumentó significativamente tras solucionar la lentitud de carga de la web."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"retención\". Definición: The continued possession, holding, or maintenance of data, customers, or employees."
+  },
+  {
+    "id": "ud4_strategic_planning",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Strategic planning",
+    "definition_en": "The process of defining organizational strategy and allocating resources.",
+    "translation_es": "planificación estratégica",
+    "examples": [
+      "Long-term [BLANK] is essential to modernize monolithic legacy IT infrastructure.",
+      "The executive board met for two days of intensive [BLANK] on cloud investments.",
+      "Good [BLANK] helps avoid technical debt while meeting aggressive market targets."
+    ],
+    "examples_es": [
+      "Una [planificación estratégica] a largo plazo es indispensable para modernizar infraestructuras de TI heredadas.",
+      "La junta directiva se reunió durante dos días para llevar a cabo la [planificación estratégica] de inversiones en nube.",
+      "Una buena [planificación estratégica] evita acumular deuda técnica mientras se alcanzan los objetivos del mercado."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"planificación estratégica\". Definición: The process of defining organizational strategy and allocating resources."
+  },
+  {
+    "id": "ud4_tailor",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Tailor",
+    "definition_en": "To make, alter, or adapt something for a particular purpose or person.",
+    "translation_es": "adaptar; personalizar",
+    "examples": [
+      "We can [BLANK] our software platform to suit your specific business workflows.",
+      "Always [BLANK] your resume and cover letter to the requirements of the job opening.",
+      "Custom CSS themes allow clients to [BLANK] the web portal to their company branding."
+    ],
+    "examples_es": [
+      "Podemos [adaptar/personalizar] nuestra plataforma de software para ajustarla a los flujos de trabajo de su empresa.",
+      "[Adapte/personalice] siempre su currículum y carta de presentación a los requisitos concretos de la vacante.",
+      "Los temas personalizados de CSS permiten a los clientes [adaptar/ajustar] el portal web a su imagen corporativa."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"adaptar; personalizar\". Definición: To make, alter, or adapt something for a particular purpose or person."
+  },
+  {
+    "id": "ud4_track_record",
+    "lesson": "Unit 4 - Expresión escrita",
+    "word": "Track record",
+    "definition_en": "The past achievements, performance, or history of a person or organization.",
+    "translation_es": "historial; trayectoria",
+    "examples": [
+      "Our lead architect has an impressive [BLANK] of delivering zero-downtime migrations.",
+      "Clients trust our software agency because of our proven reliability [BLANK].",
+      "A demonstrable [BLANK] in open-source projects helps candidates stand out in interviews."
+    ],
+    "examples_es": [
+      "Nuestro arquitecto principal cuenta con un impresionante [historial/trayectoria] de migraciones con cero inactividad.",
+      "Los clientes confían en nuestra consultora de software gracias a nuestro demostrado [historial] de fiabilidad.",
+      "Una [trayectoria / un historial] demostrable en proyectos de código abierto ayuda a destacar en las entrevistas."
+    ],
+    "hint_context_es": "Pista: Busca el término en inglés para \"historial; trayectoria\". Definición: The past achievements, performance, or history of a person or organization."
+  }
+]
